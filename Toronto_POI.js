@@ -16,7 +16,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www.downsviewpark.ca",
         "ADDRESS": "35 Carl Hall Road",
-        "DESCRIPTION": "The vast green space allows for an array of small-to-large scale events such as culture, dining, leisure, sports, and recreation."
+        "DESCRIPTION": "The vast green space allows for an array of small-to-large scale events such as culture, dining, leisure, sports, and recreation.",
+        "ID": 1
       }
     },
     {
@@ -34,7 +35,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://www.heritagetrust.on.ca/ewg/home.aspx",
         "ADDRESS": "189 Yonge Street",
-        "DESCRIPTION": "The Elgin and Winter Garden Theatre features two completely separate theatres and is the last running double-decker theatre in the world ."
+        "DESCRIPTION": "The Elgin and Winter Garden Theatre features two completely separate theatres and is the last running double-decker theatre in the world .",
+        "ID": 2
       }
     },
     {
@@ -52,7 +54,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "http://www.eskimoart.com/",
         "ADDRESS": "8 Case Goods Lane, Suite 220",
-        "DESCRIPTION": "Located in the Distillery District, the Eskimo Art Gallery offers Inuit art."
+        "DESCRIPTION": "Located in the Distillery District, the Eskimo Art Gallery offers Inuit art.",
+        "ID": 3
       }
     },
     {
@@ -70,7 +73,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "http://www.evergreen.ca/get-involved/evergreen-brick-works/",
         "ADDRESS": "550 Bayview Avenue",
-        "DESCRIPTION": "A former brickyard, the Evergreen Brick Works is an urban model for ecosystem planning. Filled with activities for the whole family and a farmers"
+        "DESCRIPTION": "A former brickyard, the Evergreen Brick Works is an urban model for ecosystem planning. Filled with activities for the whole family and a farmers",
+        "ID": 4
       }
     },
     {
@@ -88,7 +92,8 @@
         "CATEGORY": "Convention and Trade ",
         "WEBSITE": "www.explace.on.ca",
         "ADDRESS": "200 Princes' Boulevard",
-        "DESCRIPTION": "Attracting over 5 million visitors a year, this massive complex features sporting and exhibition facilities, a nightclub and attractions."
+        "DESCRIPTION": "Attracting over 5 million visitors a year, this massive complex features sporting and exhibition facilities, a nightclub and attractions.",
+        "ID": 5
       }
     },
     {
@@ -106,7 +111,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "https://www.factorytheatre.ca",
         "ADDRESS": "125 Bathurst Street",
-        "DESCRIPTION": "The Factory Theatre operates two theatres in a  Victorian mansion, where they have produced more than 150 Canadian plays, and various workshops."
+        "DESCRIPTION": "The Factory Theatre operates two theatres in a  Victorian mansion, where they have produced more than 150 Canadian plays, and various workshops.",
+        "ID": 6
       }
     },
     {
@@ -124,7 +130,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.famouspeopleplayers.com/",
         "ADDRESS": "343 Evans Avenue",
-        "DESCRIPTION": "Located in Toronto's West End, Famous PEOPLE Players allows visitors to immerse themselves in a unique dining experience while enjoying theatre in the dark."
+        "DESCRIPTION": "Located in Toronto's West End, Famous PEOPLE Players allows visitors to immerse themselves in a unique dining experience while enjoying theatre in the dark.",
+        "ID": 7
       }
     },
     {
@@ -142,7 +149,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b59c2271635af310VgnVCM10000071d60f89RCRD",
         "ADDRESS": "100 Garrison Road",
-        "DESCRIPTION": "Birthplace of Toronto in 1793 and scene of the Battle of York in 1813, Fort York has Canada9s largest collection of original War of 1812 buildings. Open year round for tours, exhibits, and demonstrations."
+        "DESCRIPTION": "Birthplace of Toronto in 1793 and scene of the Battle of York in 1813, Fort York has Canada9s largest collection of original War of 1812 buildings. Open year round for tours, exhibits, and demonstrations.",
+        "ID": 8
       }
     },
     {
@@ -160,7 +168,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.coc.ca/AboutTheCOC/FourSeasonsCentre",
         "ADDRESS": "145 Queen Street West",
-        "DESCRIPTION": "The Four Seasons Centre for the Performing Arts is home to the Canadian Opera Company and the National Ballet of Canada."
+        "DESCRIPTION": "The Four Seasons Centre for the Performing Arts is home to the Canadian Opera Company and the National Ballet of Canada.",
+        "ID": 9
       }
     },
     {
@@ -178,7 +187,8 @@
         "CATEGORY": "Garden",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid=e9b8dada600f0410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "30 Centre Island Park",
-        "DESCRIPTION": "The garden, inspired by Franklin the Turtle, is an area to discover nature, play, while learning something new."
+        "DESCRIPTION": "The garden, inspired by Franklin the Turtle, is an area to discover nature, play, while learning something new.",
+        "ID": 10
       }
     },
     {
@@ -196,7 +206,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.gardinermuseum.on.ca",
         "ADDRESS": "111 Queen's Park",
-        "DESCRIPTION": "A museum dedicated to one of the oldest forms of art.  The Gardiner Museum of Ceramic Art is home to over 3,000 historical and contemporary ceramic pieces."
+        "DESCRIPTION": "A museum dedicated to one of the oldest forms of art.  The Gardiner Museum of Ceramic Art is home to over 3,000 historical and contemporary ceramic pieces.",
+        "ID": 11
       }
     },
     {
@@ -214,7 +225,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.trinity.utoronto.ca/visit/index.html",
         "ADDRESS": "15 Devonshire Place",
-        "DESCRIPTION": "In the Trinity College community, the George Ignatieff Theatre acts as a creative hub ranging from events like theatre,  conferences, and much more."
+        "DESCRIPTION": "In the Trinity College community, the George Ignatieff Theatre acts as a creative hub ranging from events like theatre,  conferences, and much more.",
+        "ID": 12
       }
     },
     {
@@ -232,7 +244,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "app.toronto.ca/tpha/beach/4.html",
         "ADDRESS": "443 Lakeshore Ave",
-        "DESCRIPTION": "Surrounded by eastern cottonwood trees,  the Gibraltar Point Beach is located on the southwest shore of Toronto Island Park. The Gibraltar Point Centre for the Arts is walking distance from the beach."
+        "DESCRIPTION": "Surrounded by eastern cottonwood trees,  the Gibraltar Point Beach is located on the southwest shore of Toronto Island Park. The Gibraltar Point Centre for the Arts is walking distance from the beach.",
+        "ID": 13
       }
     },
     {
@@ -250,7 +263,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "5172 Yonge Street",
-        "DESCRIPTION": "Operated  by the City of Toronto, the Gibson House is a museum where visitors experience an exquisite farmhouse and learn more about the rural development of the area."
+        "DESCRIPTION": "Operated  by the City of Toronto, the Gibson House is a museum where visitors experience an exquisite farmhouse and learn more about the rural development of the area.",
+        "ID": 14
       }
     },
     {
@@ -268,7 +282,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.queenelizabeththeatre.ca",
         "ADDRESS": "190 Princes Boulevard",
-        "DESCRIPTION": "Located at Exhibition Place, the Queen Elizabeth Theatre is an auditorium that is the venue for various entertainment events"
+        "DESCRIPTION": "Located at Exhibition Place, the Queen Elizabeth Theatre is an auditorium that is the venue for various entertainment events",
+        "ID": 15
       }
     },
     {
@@ -286,7 +301,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.ontla.on.ca",
         "ADDRESS": "111 Wellesley Street West",
-        "DESCRIPTION": "A variety of free tour options are available all year round to visit Ontarioas historic Legislative Building (iconic sandstone Richardson Romanesque style building, completed in 1893)."
+        "DESCRIPTION": "A variety of free tour options are available all year round to visit Ontarioas historic Legislative Building (iconic sandstone Richardson Romanesque style building, completed in 1893).",
+        "ID": 16
       }
     },
     {
@@ -304,7 +320,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.randolphacademy.com",
         "ADDRESS": "736 Bathurst Street",
-        "DESCRIPTION": "Over the last 20 years the Randolph Academy has trained various performers for all major theatre productions in Toronto.  These shows have included Lord of the Rings and Dirty Dancing."
+        "DESCRIPTION": "Over the last 20 years the Randolph Academy has trained various performers for all major theatre productions in Toronto.  These shows have included Lord of the Rings and Dirty Dancing.",
+        "ID": 17
       }
     },
     {
@@ -322,7 +339,8 @@
         "CATEGORY": "Entertainment Venue",
         "WEBSITE": "www.ricohcoliseum.com",
         "ADDRESS": "100 Princes' Boulevard",
-        "DESCRIPTION": "Located at Exhibition Place, the Ricoh Coliseum is home to the Toronto Marlies (American Hockey League) and concerts."
+        "DESCRIPTION": "Located at Exhibition Place, the Ricoh Coliseum is home to the Toronto Marlies (American Hockey League) and concerts.",
+        "ID": 18
       }
     },
     {
@@ -340,7 +358,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.ripleyaquariums.com/canada",
         "ADDRESS": "288 Bremner Boulevard",
-        "DESCRIPTION": "Canadaes largest aquarium. Interactive attractions feature over 5.7 million litres of water and more than 16,000 marine animals."
+        "DESCRIPTION": "Canadaes largest aquarium. Interactive attractions feature over 5.7 million litres of water and more than 16,000 marine animals.",
+        "ID": 19
       }
     },
     {
@@ -358,7 +377,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "201 Winchester Street",
-        "DESCRIPTION": "On 7.5 acres, Riverdale Farm is an historic working farm with many scenic pathways and farm animals."
+        "DESCRIPTION": "On 7.5 acres, Riverdale Farm is an historic working farm with many scenic pathways and farm animals.",
+        "ID": 20
       }
     },
     {
@@ -376,7 +396,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/343",
         "ADDRESS": "550 Broadview Ave",
-        "DESCRIPTION": "A Toronto park that is great for all seasons. Riverdale Park East has three multipurpose sport fields, seven tennis courts, an outdoor ice rink, two baseball diamonds, and much more."
+        "DESCRIPTION": "A Toronto park that is great for all seasons. Riverdale Park East has three multipurpose sport fields, seven tennis courts, an outdoor ice rink, two baseball diamonds, and much more.",
+        "ID": 21
       }
     },
     {
@@ -394,7 +415,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/344",
         "ADDRESS": "500 Gerrard Street East",
-        "DESCRIPTION": "A Toronto park that is great for all seasons. Riverdale Park East has three multipurpose sport fields, seven tennis courts, an outdoor ice rink, two baseball diamonds, and much more."
+        "DESCRIPTION": "A Toronto park that is great for all seasons. Riverdale Park East has three multipurpose sport fields, seven tennis courts, an outdoor ice rink, two baseball diamonds, and much more.",
+        "ID": 22
       }
     },
     {
@@ -412,7 +434,8 @@
         "CATEGORY": "Entertainment Venue",
         "WEBSITE": "www.rogerscentre.com",
         "ADDRESS": "1 Blue Jays Way",
-        "DESCRIPTION": "The Rogers Centre is a multipurpose venue. Home to the Toronto Blue Jays (Major League Baseball) and the Toronto Argonauts (Canadian Football League - 2015 season)."
+        "DESCRIPTION": "The Rogers Centre is a multipurpose venue. Home to the Toronto Blue Jays (Major League Baseball) and the Toronto Argonauts (Canadian Football League - 2015 season).",
+        "ID": 23
       }
     },
     {
@@ -430,7 +453,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/19",
         "ADDRESS": "5 Glen Everest Road",
-        "DESCRIPTION": "The Rosetta McClain Gardens is a great place to safely see the Scarborough Bluffs and has beautiful rose gardens. There are signs available in braille, textured paths, raised planters, and a ramp to ensure accessibility."
+        "DESCRIPTION": "The Rosetta McClain Gardens is a great place to safely see the Scarborough Bluffs and has beautiful rose gardens. There are signs available in braille, textured paths, raised planters, and a ramp to ensure accessibility.",
+        "ID": 24
       }
     },
     {
@@ -448,7 +472,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "www.rougepark.com/explore/interest/rouge_beach.php",
         "ADDRESS": "195 Rouge Hills Drive",
-        "DESCRIPTION": "One of Toronto's designated swimming beaches, Rouge Beach has two distinct areas a white sand beach and a marsh habitat."
+        "DESCRIPTION": "One of Toronto's designated swimming beaches, Rouge Beach has two distinct areas a white sand beach and a marsh habitat.",
+        "ID": 25
       }
     },
     {
@@ -466,7 +491,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "http://www.rougepark.com/",
         "ADDRESS": "1749 Meadowvale Road",
-        "DESCRIPTION": "Soon to be Canada's first national park within an urban area, the park is Toronto's largest. It features hiking trails, a campground and Rouge Beach."
+        "DESCRIPTION": "Soon to be Canada's first national park within an urban area, the park is Toronto's largest. It features hiking trails, a campground and Rouge Beach.",
+        "ID": 26
       }
     },
     {
@@ -484,7 +510,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.roythomson.com",
         "ADDRESS": "60 Simcoe Street",
-        "DESCRIPTION": "Opened in 1982, Roy Thomson Hall is home of the Toronto Symphony Orchestra and the Toronto Mendelssohn Choir."
+        "DESCRIPTION": "Opened in 1982, Roy Thomson Hall is home of the Toronto Symphony Orchestra and the Toronto Mendelssohn Choir.",
+        "ID": 27
       }
     },
     {
@@ -502,7 +529,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.rcmusic.ca",
         "ADDRESS": "273 Bloor St. West",
-        "DESCRIPTION": "The Toronto Conservatory of Music was founded in 1886."
+        "DESCRIPTION": "The Toronto Conservatory of Music was founded in 1886.",
+        "ID": 28
       }
     },
     {
@@ -520,7 +548,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.rom.on.ca",
         "ADDRESS": "100 Queen's Park",
-        "DESCRIPTION": "Canadaes largest museum of natural history and world cultures, presents engaging galleries of art, archaeology, and natural science from around the world."
+        "DESCRIPTION": "Canadaes largest museum of natural history and world cultures, presents engaging galleries of art, archaeology, and natural science from around the world.",
+        "ID": 29
       }
     },
     {
@@ -538,7 +567,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "www.ryerson.ca/ric",
         "ADDRESS": "33 Gould Street",
-        "DESCRIPTION": "The RIC is dedicated to the public exhibition, research, study and teaching of photography including , installation art and film and media."
+        "DESCRIPTION": "The RIC is dedicated to the public exhibition, research, study and teaching of photography including , installation art and film and media.",
+        "ID": 30
       }
     },
     {
@@ -556,7 +586,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/408",
         "ADDRESS": "120 King Street East",
-        "DESCRIPTION": "A large green space, home to a Victorian garden, live performances, and is a popular spot for photos. The park is adjacent to historic St. James Cathedral."
+        "DESCRIPTION": "A large green space, home to a Victorian garden, live performances, and is a popular spot for photos. The park is adjacent to historic St. James Cathedral.",
+        "ID": 31
       }
     },
     {
@@ -574,7 +605,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.stlc.com",
         "ADDRESS": "27 Front Street East",
-        "DESCRIPTION": "Home to  two theatres, the Bluma Appel Theatre and the Jane Mallett Theatre, the St. Lawrence Centre for the Arts is the home to various artistic and public events."
+        "DESCRIPTION": "Home to  two theatres, the Bluma Appel Theatre and the Jane Mallett Theatre, the St. Lawrence Centre for the Arts is the home to various artistic and public events.",
+        "ID": 32
       }
     },
     {
@@ -592,7 +624,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.stlawrencemarket.com/.../about_the_market_gallery_and_antique",
         "ADDRESS": "95 Front Street East",
-        "DESCRIPTION": "Voted best fresh food market in the world by National Georgraphic in 2012, Torontots historic and premier market also includes The Market Gallery, housed within part of Torontols original 19th century City Hall."
+        "DESCRIPTION": "Voted best fresh food market in the world by National Georgraphic in 2012, Torontots historic and premier market also includes The Market Gallery, housed within part of Torontols original 19th century City Hall.",
+        "ID": 33
       }
     },
     {
@@ -610,7 +643,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.steamwhistle.ca",
         "ADDRESS": "255 Bremner Boulevard",
-        "DESCRIPTION": "A microbrewery located in downtown Toronto, Steam Whistle  Brewery produces a premium pale lager composed of only four ingredients."
+        "DESCRIPTION": "A microbrewery located in downtown Toronto, Steam Whistle  Brewery produces a premium pale lager composed of only four ingredients.",
+        "ID": 34
       }
     },
     {
@@ -628,7 +662,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www.waterfrontoronto.ca/explore_projects2/east.../canadas_sugar_beach",
         "ADDRESS": "11 Dockside Drive",
-        "DESCRIPTION": "Sugar Beach is one of Toronto's urban beach parks. Famous for its pink umbrellas and Muskoka chairs."
+        "DESCRIPTION": "Sugar Beach is one of Toronto's urban beach parks. Famous for its pink umbrellas and Muskoka chairs.",
+        "ID": 35
       }
     },
     {
@@ -646,7 +681,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/394",
         "ADDRESS": "1755 Lake Shore Boulevard West",
-        "DESCRIPTION": "One of Toronto's designated swimming beaches, Sunnyside Beach provides rowers and paddlers calm waters with an offshore break wall."
+        "DESCRIPTION": "One of Toronto's designated swimming beaches, Sunnyside Beach provides rowers and paddlers calm waters with an offshore break wall.",
+        "ID": 36
       }
     },
     {
@@ -664,7 +700,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.infoukes.com/shevchenkomuseum",
         "ADDRESS": "1614 Bloor Street West",
-        "DESCRIPTION": "The Taras H. Shevchenko Museum is the home to  exhibitions dedicated to the contribution of Ukrainians in Canada and the life of famed writer Taras Shevchenko."
+        "DESCRIPTION": "The Taras H. Shevchenko Museum is the home to  exhibitions dedicated to the contribution of Ukrainians in Canada and the life of famed writer Taras Shevchenko.",
+        "ID": 37
       }
     },
     {
@@ -682,7 +719,8 @@
         "CATEGORY": "Entertainment Venue",
         "WEBSITE": "www.theaircanadacentre.com/",
         "ADDRESS": "40 Bay Street",
-        "DESCRIPTION": "The Air Canada Centre is a multi-purpose indoor sporting arena and concert venue. It is the home of the Toronto Maple Leafs Hockey Club, the Toronto Raptors basketball team, and the Toronto Rock Lacrosse team."
+        "DESCRIPTION": "The Air Canada Centre is a multi-purpose indoor sporting arena and concert venue. It is the home of the Toronto Maple Leafs Hockey Club, the Toronto Raptors basketball team, and the Toronto Rock Lacrosse team.",
+        "ID": 38
       }
     },
     {
@@ -700,7 +738,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.algreentheatre.ca/",
         "ADDRESS": "750 Spadina Avenue",
-        "DESCRIPTION": "The Al Green Theatre is used  for social and corporate event, theatre, film, concerts, dance; and lectures."
+        "DESCRIPTION": "The Al Green Theatre is used  for social and corporate event, theatre, film, concerts, dance; and lectures.",
+        "ID": 39
       }
     },
     {
@@ -718,7 +757,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/193",
         "ADDRESS": "2901 Yonge Street",
-        "DESCRIPTION": "Named after the famous composer Alexander Muir.  The gardens act as a path into the tranquil ravine system that includes walking trails.  The gardens are open year round."
+        "DESCRIPTION": "Named after the famous composer Alexander Muir.  The gardens act as a path into the tranquil ravine system that includes walking trails.  The gardens are open year round.",
+        "ID": 40
       }
     },
     {
@@ -736,7 +776,8 @@
         "CATEGORY": "Conservatory",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b2a9dada600f0410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "19 Horticultural Avenue",
-        "DESCRIPTION": "Allan Gardens is an indoor botanical garden built in 1910. The building houses six greenhouses featuring plants and flowers from across the globe.  Open year round and free to the public"
+        "DESCRIPTION": "Allan Gardens is an indoor botanical garden built in 1910. The building houses six greenhouses featuring plants and flowers from across the globe.  Open year round and free to the public",
+        "ID": 41
       }
     },
     {
@@ -754,7 +795,8 @@
         "CATEGORY": "Convention and Trade",
         "WEBSITE": "http://www.allstreamcentre.com/",
         "ADDRESS": "105 Princes' Boulevard",
-        "DESCRIPTION": "The Allstream Centre is an environmentally friendly conference venue."
+        "DESCRIPTION": "The Allstream Centre is an environmentally friendly conference venue.",
+        "ID": 42
       }
     },
     {
@@ -772,7 +814,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.alumnaetheatre.com/",
         "ADDRESS": "70 Berkeley Street",
-        "DESCRIPTION": "The theatre company is housed inside an old firehall.  Each year the company offers three productions."
+        "DESCRIPTION": "The theatre company is housed inside an old firehall.  Each year the company offers three productions.",
+        "ID": 43
       }
     },
     {
@@ -788,7 +831,8 @@
       "properties": {
         "NAME": "Annex Theatre (see Randolph Theatre)",
         "CATEGORY": "Performing Arts",
-        "ADDRESS": "730 Bathurst Street"
+        "ADDRESS": "730 Bathurst Street",
+        "ID": 44
       }
     },
     {
@@ -806,7 +850,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "www.ago.net/",
         "ADDRESS": "317 Dundas Street West",
-        "DESCRIPTION": "The Art Gallery of Ontario (AGO) is one of the largest art galleries in North America, and holds more than 80,000 works in its collection.   In 2008 the buidling was redesigned by famous architect and native Torontonian, Frank Gehry."
+        "DESCRIPTION": "The Art Gallery of Ontario (AGO) is one of the largest art galleries in North America, and holds more than 80,000 works in its collection.   In 2008 the buidling was redesigned by famous architect and native Torontonian, Frank Gehry.",
+        "ID": 45
       }
     },
     {
@@ -824,7 +869,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "http://www.baps.org/Global-Network/North-America/Toronto.aspx",
         "ADDRESS": "61 Claireville Drive",
-        "DESCRIPTION": "This unique-to-Canada architectural monument is made with 24,000 pieces of marble and stone. Discover the more than 10,000-year-old heritage of India."
+        "DESCRIPTION": "This unique-to-Canada architectural monument is made with 24,000 pieces of marble and stone. Discover the more than 10,000-year-old heritage of India.",
+        "ID": 46
       }
     },
     {
@@ -842,7 +888,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://www.nbs-enb.ca/Venue-Rentals/Betty-Oliphant-Theatre",
         "ADDRESS": "404 Jarvis Street",
-        "DESCRIPTION": "Designed by Jack Diamond, the Betty Oliphant Theatre is used by the Canada National Ballet School as a training and performance venue."
+        "DESCRIPTION": "Designed by Jack Diamond, the Betty Oliphant Theatre is used by the Canada National Ballet School as a training and performance venue.",
+        "ID": 47
       }
     },
     {
@@ -860,7 +907,8 @@
         "CATEGORY": "Transportation",
         "WEBSITE": "http://www.portstoronto.com/airport.aspx",
         "ADDRESS": "4 Eireann Quay",
-        "DESCRIPTION": "Located minutes from the downtown core, Billy Bishop Airport serves nearby Canadian and American cities."
+        "DESCRIPTION": "Located minutes from the downtown core, Billy Bishop Airport serves nearby Canadian and American cities.",
+        "ID": 48
       }
     },
     {
@@ -878,7 +926,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.blackcreek.ca/",
         "ADDRESS": "1000 Murray Ross Parkway",
-        "DESCRIPTION": "Become immersed in the lifestyles, customs, and surroundings of early residents who built the foundations for modern Toronto and Ontario at this 30-acre site."
+        "DESCRIPTION": "Become immersed in the lifestyles, customs, and surroundings of early residents who built the foundations for modern Toronto and Ontario at this 30-acre site.",
+        "ID": 49
       }
     },
     {
@@ -896,7 +945,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/2/",
         "ADDRESS": "1 Brimley Road South",
-        "DESCRIPTION": "Providing a beautiful backdrop for locals and visitors alike, the Bluffs are one of Toronto's great natural wonders."
+        "DESCRIPTION": "Providing a beautiful backdrop for locals and visitors alike, the Bluffs are one of Toronto's great natural wonders.",
+        "ID": 50
       }
     },
     {
@@ -912,7 +962,8 @@
       "properties": {
         "NAME": "Bluma Appel Theatre (see St. Lawrence Centre for the Arts)",
         "CATEGORY": "Performing Arts",
-        "ADDRESS": "27 Front Street East"
+        "ADDRESS": "27 Front Street East",
+        "ID": 51
       }
     },
     {
@@ -930,7 +981,8 @@
         "CATEGORY": "Entertainment Venue",
         "WEBSITE": "www.bmofield.com",
         "ADDRESS": "170 Princes' Boulevard",
-        "DESCRIPTION": "BMO Field is home to the Toronto FC (Major League Soccer), Canada's national soccer teams, and the future home of the Toronto Argonauts (Canadian Football League) in 2016"
+        "DESCRIPTION": "BMO Field is home to the Toronto FC (Major League Soccer), Canada's national soccer teams, and the future home of the Toronto Argonauts (Canadian Football League) in 2016",
+        "ID": 52
       }
     },
     {
@@ -948,7 +1000,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://buddiesinbadtimes.com/",
         "ADDRESS": "12 Alexander Street",
-        "DESCRIPTION": "Buddies in Bad Times theatre is the biggest, and the longest-running queer theatre in the world."
+        "DESCRIPTION": "Buddies in Bad Times theatre is the biggest, and the longest-running queer theatre in the world.",
+        "ID": 53
       }
     },
     {
@@ -966,7 +1019,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www.campbellhousemuseum.ca/",
         "ADDRESS": "160 Queen Street West",
-        "DESCRIPTION": "The Campbell house dates back to 1822 and was once home to Judge William Campbell.  It is the last example of Palladian architecture in the Toronto."
+        "DESCRIPTION": "The Campbell house dates back to 1822 and was once home to Judge William Campbell.  It is the last example of Palladian architecture in the Toronto.",
+        "ID": 54
       }
     },
     {
@@ -984,7 +1038,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://www.nbs-enb.ca/Home",
         "ADDRESS": "400 Jarvis Street",
-        "DESCRIPTION": "The National Ballet School of Canada is the world's leader in the training of students, teachers and dancers. It's the only school of it's kind in North America to provide dance training & residential care."
+        "DESCRIPTION": "The National Ballet School of Canada is the world's leader in the training of students, teachers and dancers. It's the only school of it's kind in North America to provide dance training & residential care.",
+        "ID": 55
       }
     },
     {
@@ -1002,7 +1057,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.canadaswalkoffame.com",
         "ADDRESS": "215 King St. W.",
-        "DESCRIPTION": "Canada's Walk of Fame celebrates Canadians who have excelled in their respective fields for a minimum of 10 years.   The stars are displayed throughout the Entertainment District along King Street West and Simcoe Street."
+        "DESCRIPTION": "Canada's Walk of Fame celebrates Canadians who have excelled in their respective fields for a minimum of 10 years.   The stars are displayed throughout the Entertainment District along King Street West and Simcoe Street.",
+        "ID": 56
       }
     },
     {
@@ -1020,7 +1076,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www.cbc.ca/museum/",
         "ADDRESS": "250 Front Street West",
-        "DESCRIPTION": "The Canadian Broadcasting Corporation (CBC) museum features various CBC archival materials that date back to 1936.  The museum also features the Graham Spry Theatre and a number of interactive exhibits."
+        "DESCRIPTION": "The Canadian Broadcasting Corporation (CBC) museum features various CBC archival materials that date back to 1936.  The museum also features the Graham Spry Theatre and a number of interactive exhibits.",
+        "ID": 57
       }
     },
     {
@@ -1038,7 +1095,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "http://www.cansculpt.org/presentExhibitions.php",
         "ADDRESS": "500 Church Street",
-        "DESCRIPTION": "The Canadian Sculpture Centre is headquarters to the Sculptors Society of Canada.  The society showcase's and exhibits contemporary Canadian sculptures. \""
+        "DESCRIPTION": "The Canadian Sculpture Centre is headquarters to the Sculptors Society of Canada.  The society showcase's and exhibits contemporary Canadian sculptures. \"",
+        "ID": 58
       }
     },
     {
@@ -1056,7 +1114,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.casaloma.ca",
         "ADDRESS": "1 Austin Terrace",
-        "DESCRIPTION": "Canadais foremost castle is complete with decorated suites, secret passages, an 800-foot tunnel, towers, stables, and beautiful 5-acre estate gardens."
+        "DESCRIPTION": "Canadais foremost castle is complete with decorated suites, secret passages, an 800-foot tunnel, towers, stables, and beautiful 5-acre estate gardens.",
+        "ID": 59
       }
     },
     {
@@ -1074,7 +1133,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/209/",
         "ADDRESS": "275 Unwin Avenue",
-        "DESCRIPTION": "Cherry Beach is located within the port lands and features a dog's off leash area, the Martin Goodman Trail and a picnic site."
+        "DESCRIPTION": "Cherry Beach is located within the port lands and features a dog's off leash area, the Martin Goodman Trail and a picnic site.",
+        "ID": 60
       }
     },
     {
@@ -1092,7 +1152,8 @@
         "CATEGORY": "Conservatory",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=d1afc3513a110410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "225 Confederation Drive",
-        "DESCRIPTION": "Situated in a restored mansion, the centre features the Cedar Ridge gallery and rich gardens.  The gallery highlights work from artists throughout the Greater Toronto area."
+        "DESCRIPTION": "Situated in a restored mansion, the centre features the Cedar Ridge gallery and rich gardens.  The gallery highlights work from artists throughout the Greater Toronto area.",
+        "ID": 61
       }
     },
     {
@@ -1110,7 +1171,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/798/",
         "ADDRESS": "256 Centennial Park Road",
-        "DESCRIPTION": "Centennial Park is situated in Etobicoke and was opened in 1967 to celebrate Canada's 100th birthday.  The park features sports fields, a conservatory, a ski hill, an Olympic size swimming pool, picnic areas and a Frisbee golf course."
+        "DESCRIPTION": "Centennial Park is situated in Etobicoke and was opened in 1967 to celebrate Canada's 100th birthday.  The park features sports fields, a conservatory, a ski hill, an Olympic size swimming pool, picnic areas and a Frisbee golf course.",
+        "ID": 62
       }
     },
     {
@@ -1128,7 +1190,8 @@
         "CATEGORY": "Conservatory",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=a7b9dada600f0410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "151 Elmcrest Road",
-        "DESCRIPTION": "The Centennial Park conservatory is located within Centennial Park in Etobicoke.  At a size of 12,000 square feet it features an arid house, a show house and a tropical house.  The conservatory is open year round and is free to the public."
+        "DESCRIPTION": "The Centennial Park conservatory is located within Centennial Park in Etobicoke.  At a size of 12,000 square feet it features an arid house, a show house and a tropical house.  The conservatory is open year round and is free to the public.",
+        "ID": 63
       }
     },
     {
@@ -1146,7 +1209,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "http://app.toronto.ca/tpha/beach/5.html",
         "ADDRESS": "1 Avenue Of The Islands",
-        "DESCRIPTION": "Centre Island beach also known as Manitou Beach has been used by locals and tourists alike for more than a century.  The beach is located on the south end of Centre Island.  It is surrounded by park space and amenities such as bike and boat rentals."
+        "DESCRIPTION": "Centre Island beach also known as Manitou Beach has been used by locals and tourists alike for more than a century.  The beach is located on the south end of Centre Island.  It is surrounded by park space and amenities such as bike and boat rentals.",
+        "ID": 64
       }
     },
     {
@@ -1164,7 +1228,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "http://www.centreisland.ca/",
         "ADDRESS": "21 Avenue Of The  Islands",
-        "DESCRIPTION": "Centreville is a 14-acre, turn-of-the-century, Ontario village theme park for children located on Centre Island, featuring over 30 rides."
+        "DESCRIPTION": "Centreville is a 14-acre, turn-of-the-century, Ontario village theme park for children located on Centre Island, featuring over 30 rides.",
+        "ID": 65
       }
     },
     {
@@ -1182,7 +1247,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "http://www.cccgt.org/index.php/en/",
         "ADDRESS": "5183 Sheppard Avenue East",
-        "DESCRIPTION": "\" Home to the Asian Business & Culture Development Centre.  The building houses the P. C. Ho theatre, studios, conference rooms, a resource centre, a reception hall and an art gallery.\""
+        "DESCRIPTION": "\" Home to the Asian Business & Culture Development Centre.  The building houses the P. C. Ho theatre, studios, conference rooms, a resource centre, a reception hall and an art gallery.\"",
+        "ID": 66
       }
     },
     {
@@ -1200,7 +1266,8 @@
         "CATEGORY": "Conservatory",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=355cfe59abc61410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "14 Temperance Street",
-        "DESCRIPTION": "Renovated in 2014, the conservatory is situated within the heart of the city's financial district. It features a small greenhouse that is set to the conditions of a rainforest."
+        "DESCRIPTION": "Renovated in 2014, the conservatory is situated within the heart of the city's financial district. It features a small greenhouse that is set to the conditions of a rainforest.",
+        "ID": 67
       }
     },
     {
@@ -1218,7 +1285,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "http://www.cntower.ca/",
         "ADDRESS": "301 Front Street West",
-        "DESCRIPTION": "\" The CN Tower is an engineering marvel and one of the city's most visited sites.  It features the world's highest wine cellar, a fine dining revolving restaurant (360), a glass floor.  For the true adventure seeker, the Edge walk.    \""
+        "DESCRIPTION": "\" The CN Tower is an engineering marvel and one of the city's most visited sites.  It features the world's highest wine cellar, a fine dining revolving restaurant (360), a glass floor.  For the true adventure seeker, the Edge walk.    \"",
+        "ID": 68
       }
     },
     {
@@ -1236,7 +1304,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=5e5c2271635af310VgnVCM10000071d60f89RCRD",
         "ADDRESS": "11 Colborne Lodge Drive",
-        "DESCRIPTION": "\" This quaint cottage located within High Park was home to John and Jemima Howard.  In 1873 the couple deeded the park and lodge to the City of Toronto.  The house is a great example of a regency style building.   \""
+        "DESCRIPTION": "\" This quaint cottage located within High Park was home to John and Jemima Howard.  In 1873 the couple deeded the park and lodge to the City of Toronto.  The house is a great example of a regency style building.   \"",
+        "ID": 69
       }
     },
     {
@@ -1254,7 +1323,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "ww.dx.org/",
         "ADDRESS": "234 Bay Street",
-        "DESCRIPTION": "Canada's only museum dedicated to the preservation of design which includes the design heritage from an array of mediums."
+        "DESCRIPTION": "Canada's only museum dedicated to the preservation of design which includes the design heritage from an array of mediums.",
+        "ID": 70
       }
     },
     {
@@ -1272,7 +1342,8 @@
         "CATEGORY": "Convention and Trade",
         "WEBSITE": "www.enercarecentre.com/",
         "ADDRESS": "100 Princes' Boulevard",
-        "DESCRIPTION": "The largest convention centre in Canada, over 180 trade and consumer shows are annually hosted at the EnerCare Centre."
+        "DESCRIPTION": "The largest convention centre in Canada, over 180 trade and consumer shows are annually hosted at the EnerCare Centre.",
+        "ID": 71
       }
     },
     {
@@ -1290,7 +1361,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://passemuraille.ca/",
         "ADDRESS": "16 Ryerson Avenue",
-        "DESCRIPTION": "Theatre Passe Muraille was CanadaCs original alternative theatre company.   600 Canadian plays have been produced since the company was founded in 1968."
+        "DESCRIPTION": "Theatre Passe Muraille was CanadaCs original alternative theatre company.   600 Canadian plays have been produced since the company was founded in 1968.",
+        "ID": 72
       }
     },
     {
@@ -1308,7 +1380,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "www.thompsonlandry.com/",
         "ADDRESS": "6 Trinity Street",
-        "DESCRIPTION": "The Thompson Landry Gallery is spread out over 6,000 square feet and showcases artwork from internationally acclaimed contemporary Quebec artists. The gallery opened in 2009 and  is situated within the Distillery District's Cooperage Building."
+        "DESCRIPTION": "The Thompson Landry Gallery is spread out over 6,000 square feet and showcases artwork from internationally acclaimed contemporary Quebec artists. The gallery opened in 2009 and  is situated within the Distillery District's Cooperage Building.",
+        "ID": 73
       }
     },
     {
@@ -1325,7 +1398,8 @@
         "NAME": "Theatre Scarborough (see Scarborough Village Theatre)",
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://theatrescarborough.com/",
-        "ADDRESS": "3600 Kingston Road"
+        "ADDRESS": "3600 Kingston Road",
+        "ID": 74
       }
     },
     {
@@ -1343,7 +1417,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=d5ed2271635af310VgnVCM10000071d60f89RCRD",
         "ADDRESS": "67 Pottery Road",
-        "DESCRIPTION": "Todmorden Mills Heritage Site is situated within the Don Valley and is located beside a 9.2 hectare wildflower preserve. It features historic buildings such as the Brewery building and the Papermill theatre and gallery."
+        "DESCRIPTION": "Todmorden Mills Heritage Site is situated within the Don Valley and is located beside a 9.2 hectare wildflower preserve. It features historic buildings such as the Brewery building and the Papermill theatre and gallery.",
+        "ID": 75
       }
     },
     {
@@ -1361,7 +1436,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www.tommythompsonpark.ca",
         "ADDRESS": "1 Leslie Street",
-        "DESCRIPTION": "The park is a perfect place for hiking, jogging, cycling and birdwatching."
+        "DESCRIPTION": "The park is a perfect place for hiking, jogging, cycling and birdwatching.",
+        "ID": 76
       }
     },
     {
@@ -1379,7 +1455,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "torontobotanicalgarden.ca/",
         "ADDRESS": "777 Lawrence Avenue East",
-        "DESCRIPTION": "Located at the stunning Edwards Gardens, Toronto Botanical Garden features award-winning themed gardens and an indoor education/interpretation facility."
+        "DESCRIPTION": "Located at the stunning Edwards Gardens, Toronto Botanical Garden features award-winning themed gardens and an indoor education/interpretation facility.",
+        "ID": 77
       }
     },
     {
@@ -1397,7 +1474,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=f81aa9a59754c310VgnVCM1000006cd60f89RCRD",
         "ADDRESS": "100 Queen Street West",
-        "DESCRIPTION": "Toronto's City Hall is one of Toronto's best known and visited landmarks. Nathan Phillips Square located directly in front of City Hall, is the site of concerts, farmers' markets, and other iconic events."
+        "DESCRIPTION": "Toronto's City Hall is one of Toronto's best known and visited landmarks. Nathan Phillips Square located directly in front of City Hall, is the site of concerts, farmers' markets, and other iconic events.",
+        "ID": 78
       }
     },
     {
@@ -1415,7 +1493,8 @@
         "CATEGORY": "Transportation",
         "WEBSITE": "torontocoachterminal.com/",
         "ADDRESS": "610 Bay Street",
-        "DESCRIPTION": "The Toronto Coach Terminal provides travellers with bus service to various cities in North America."
+        "DESCRIPTION": "The Toronto Coach Terminal provides travellers with bus service to various cities in North America.",
+        "ID": 79
       }
     },
     {
@@ -1433,7 +1512,8 @@
         "CATEGORY": "Convention and Trade",
         "WEBSITE": "www.torontocongresscentre.com",
         "ADDRESS": "650 Dixon Road",
-        "DESCRIPTION": "The Toronto Congress Centre opened in 1995 and now features over 1 million square feet of space for galas, meetings, trade shows and conventions,"
+        "DESCRIPTION": "The Toronto Congress Centre opened in 1995 and now features over 1 million square feet of space for galas, meetings, trade shows and conventions,",
+        "ID": 80
       }
     },
     {
@@ -1451,7 +1531,8 @@
         "CATEGORY": "Shopping",
         "WEBSITE": "https://www.cfshops.com/toronto-eaton-centre.html",
         "ADDRESS": "220 Yonge Street",
-        "DESCRIPTION": "The Toronto Eaton Centre is downtown Toronto's only shopping mall.  It features over 200 stores and restaurants as well as the sculpture called Flightstop designed by Michael Snow."
+        "DESCRIPTION": "The Toronto Eaton Centre is downtown Toronto's only shopping mall.  It features over 200 stores and restaurants as well as the sculpture called Flightstop designed by Michael Snow.",
+        "ID": 81
       }
     },
     {
@@ -1469,7 +1550,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "http://www.torontoisland.com/",
         "ADDRESS": "1 Centre Island Park",
-        "DESCRIPTION": "The Toronto Island Park is North America's largest car free neighbourhood and is only a short ferry ride away from downtown Toronto. The park is features several attractions, beaches, restaurants, bike and boat rentals and plenty of open green space."
+        "DESCRIPTION": "The Toronto Island Park is North America's largest car free neighbourhood and is only a short ferry ride away from downtown Toronto. The park is features several attractions, beaches, restaurants, bike and boat rentals and plenty of open green space.",
+        "ID": 82
       }
     },
     {
@@ -1487,7 +1569,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "http://www.harbourfrontcentre.com/venues/torontomusicgarden/",
         "ADDRESS": "479 Queen's Quay West",
-        "DESCRIPTION": "The Toronto Music Garden is situated on Toronto's newly revamped waterfront.   The garden was designed by landscape designer Julie Moir Messervy and by the cellist Yo Yo Ma."
+        "DESCRIPTION": "The Toronto Music Garden is situated on Toronto's newly revamped waterfront.   The garden was designed by landscape designer Julie Moir Messervy and by the cellist Yo Yo Ma.",
+        "ID": 83
       }
     },
     {
@@ -1505,7 +1588,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www.torontopolice.on.ca/museum/",
         "ADDRESS": "40 College Street",
-        "DESCRIPTION": "The Toronto Police Museum & Discovery Centre occupies 3,000 square feet within the Police Headquarters building on College Street.  The museum solely relies on private donations and is a not for profit registered charity."
+        "DESCRIPTION": "The Toronto Police Museum & Discovery Centre occupies 3,000 square feet within the Police Headquarters building on College Street.  The museum solely relies on private donations and is a not for profit registered charity.",
+        "ID": 84
       }
     },
     {
@@ -1523,7 +1607,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www.labyrinthnetwork.ca/toronto-public-labyrinth/",
         "ADDRESS": "19 Trinity Square",
-        "DESCRIPTION": "Trinity Square Park offers a unique age-old experience of meditating and relaxing while walking a labyrinth and focusing on personal self-awareness and spiritual growth."
+        "DESCRIPTION": "Trinity Square Park offers a unique age-old experience of meditating and relaxing while walking a labyrinth and focusing on personal self-awareness and spiritual growth.",
+        "ID": 85
       }
     },
     {
@@ -1541,7 +1626,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www.trha.ca/museum.html",
         "ADDRESS": "255 Bremner Boulevard",
-        "DESCRIPTION": "The Toronto Railway Museum encompasses the Canadian Pacific Railway John Street Roundhouse at Roundhouse Park and features a restored turntable, a number of trains and the 1896 Canadian Pacific Don Station."
+        "DESCRIPTION": "The Toronto Railway Museum encompasses the Canadian Pacific Railway John Street Roundhouse at Roundhouse Park and features a restored turntable, a number of trains and the 1896 Canadian Pacific Don Station.",
+        "ID": 86
       }
     },
     {
@@ -1559,7 +1645,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "http://www.torontopubliclibrary.ca/",
         "ADDRESS": "789 Yonge Street",
-        "DESCRIPTION": "The Toronto Reference Library is situated in a 5 storey building within the Yorkville neighbourhood.  It is the largest public reference library in Canada."
+        "DESCRIPTION": "The Toronto Reference Library is situated in a 5 storey building within the Yorkville neighbourhood.  It is the largest public reference library in Canada.",
+        "ID": 87
       }
     },
     {
@@ -1577,7 +1664,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "http://www.utac.utoronto.ca/",
         "ADDRESS": "15 King's College Circle",
-        "DESCRIPTION": "Originally opened in 1996 The Arts centre puts a special focus on study collections."
+        "DESCRIPTION": "Originally opened in 1996 The Arts centre puts a special focus on study collections.",
+        "ID": 88
       }
     },
     {
@@ -1595,7 +1683,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www.bloor-yorkville.com/About-Us/Village-Of-Yorkville.aspx",
         "ADDRESS": "115 Cumberland Street",
-        "DESCRIPTION": "The Village of Yorkville Park was built on the site of a former parking lot, in the heart of the Bloor Yorkville neighbourhood.  The main focal point of the park is the rock which weighs 650 tonnes and is approximately 1 billion years old."
+        "DESCRIPTION": "The Village of Yorkville Park was built on the site of a former parking lot, in the heart of the Bloor Yorkville neighbourhood.  The main focal point of the park is the rock which weighs 650 tonnes and is approximately 1 billion years old.",
+        "ID": 89
       }
     },
     {
@@ -1613,7 +1702,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "http://app.toronto.ca/tpha/beach/6.html",
         "ADDRESS": "40 Lakeshore Ave",
-        "DESCRIPTION": "Ward's Island beach is located on the most Eastern part of the Toronto Islands.  It features a residential neighbourhood, 2 restaurants, a beach and boardwalk."
+        "DESCRIPTION": "Ward's Island beach is located on the most Eastern part of the Toronto Islands.  It features a residential neighbourhood, 2 restaurants, a beach and boardwalk.",
+        "ID": 90
       }
     },
     {
@@ -1631,7 +1721,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "winchester.tdt.org/",
         "ADDRESS": "80 Winchester Street",
-        "DESCRIPTION": "The Winchester Street Theatre is owned and jointly operated by the Toronto Dance Theatre and the School of Toronto Dance Theatre. The venue features rake seating and a stage that best showcases dance performances."
+        "DESCRIPTION": "The Winchester Street Theatre is owned and jointly operated by the Toronto Dance Theatre and the School of Toronto Dance Theatre. The venue features rake seating and a stage that best showcases dance performances.",
+        "ID": 91
       }
     },
     {
@@ -1649,7 +1740,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/311/",
         "ADDRESS": "1675 Lake Shore Boulevard East",
-        "DESCRIPTION": "Woodbine Beach is one of the city's main beaches.  The park is located over 15.2 hectares.  Features include the Martin Goodman Trail and the Donald D. Summerville Outdoor Olympic Pool."
+        "DESCRIPTION": "Woodbine Beach is one of the city's main beaches.  The park is located over 15.2 hectares.  Features include the Martin Goodman Trail and the Donald D. Summerville Outdoor Olympic Pool.",
+        "ID": 92
       }
     },
     {
@@ -1667,7 +1759,8 @@
         "CATEGORY": "Shopping",
         "WEBSITE": "http://www.fantasyfair.ca/",
         "ADDRESS": "500 Rexdale Boulevard",
-        "DESCRIPTION": "The Woodbine Shopping Centre is located within the city's West end; close to Pearson Airport and Woodbine Racetrack.  Fantasy Fair located within the mall is an indoor amusement park for children.  In 2015 it celebrates 30 years."
+        "DESCRIPTION": "The Woodbine Shopping Centre is located within the city's West end; close to Pearson Airport and Woodbine Racetrack.  Fantasy Fair located within the mall is an indoor amusement park for children.  In 2015 it celebrates 30 years.",
+        "ID": 93
       }
     },
     {
@@ -1685,7 +1778,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "http://www.woodbineentertainment.com/Woodbine/Pages/Default.aspx",
         "ADDRESS": "555 Rexdale Boulevard",
-        "DESCRIPTION": "Offers both Standardbred and Thoroughbred racing and hosts many prominent events (including the Queens Plate)throughout the year."
+        "DESCRIPTION": "Offers both Standardbred and Thoroughbred racing and hosts many prominent events (including the Queens Plate)throughout the year.",
+        "ID": 94
       }
     },
     {
@@ -1703,7 +1797,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.ydsquare.ca/",
         "ADDRESS": "1 Dundas Street East",
-        "DESCRIPTION": "Yonge-Dundas Square is one of the city's largest public squares.  It is located directly across from the Toronto Eaton Centre.  The square is home to free movie screenings, concerts, shows and exhibits."
+        "DESCRIPTION": "Yonge-Dundas Square is one of the city's largest public squares.  It is located directly across from the Toronto Eaton Centre.  The square is home to free movie screenings, concerts, shows and exhibits.",
+        "ID": 95
       }
     },
     {
@@ -1721,7 +1816,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "http://www.harbourfrontcentre.com/",
         "ADDRESS": "235 Queen's Quay West",
-        "DESCRIPTION": "The York Quay Centre is part of the Harbourfront Centre."
+        "DESCRIPTION": "The York Quay Centre is part of the Harbourfront Centre.",
+        "ID": 96
       }
     },
     {
@@ -1739,7 +1835,8 @@
         "CATEGORY": "Shopping",
         "WEBSITE": "www.yorkdale.com/",
         "ADDRESS": "3401 Dufferin Street",
-        "DESCRIPTION": "An upscale shopping centre in Toronto's North West end."
+        "DESCRIPTION": "An upscale shopping centre in Toronto's North West end.",
+        "ID": 97
       }
     },
     {
@@ -1757,7 +1854,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "https://www.youngcentre.ca/",
         "ADDRESS": "50 Tank House Lane",
-        "DESCRIPTION": "Opened in 2006 the Young Centre for the Performing Arts has seen more than 250,000 people attend its performances.   The theatre is located within the Distillery Historic District."
+        "DESCRIPTION": "Opened in 2006 the Young Centre for the Performing Arts has seen more than 250,000 people attend its performances.   The theatre is located within the Distillery Historic District.",
+        "ID": 98
       }
     },
     {
@@ -1775,7 +1873,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.youngpeoplestheatre.ca/",
         "ADDRESS": "165 Front Street East",
-        "DESCRIPTION": "The Young People Theatre is a part of the Soulpepper theatre company located within the Distillery Historic District."
+        "DESCRIPTION": "The Young People Theatre is a part of the Soulpepper theatre company located within the Distillery Historic District.",
+        "ID": 99
       }
     },
     {
@@ -1793,7 +1892,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "https://www.yukyuks.com/",
         "ADDRESS": "224 Richmond Street West",
-        "DESCRIPTION": "Yuk Yuk's was established as a comedy club by Mark Breslin in 1976.  It is located within Toronto's entertainment district and features various comedians doing their stand up routines."
+        "DESCRIPTION": "Yuk Yuk's was established as a comedy club by Mark Breslin in 1976.  It is located within Toronto's entertainment district and features various comedians doing their stand up routines.",
+        "ID": 100
       }
     },
     {
@@ -1811,7 +1911,8 @@
         "CATEGORY": "Entertainment Venue",
         "WEBSITE": "www.mattamyathleticcentre.ca/",
         "ADDRESS": "50 Carlton Street",
-        "DESCRIPTION": "Mattamy Athletic Centre is located within Maple Leafs Garden and is home to the Ryerson Ram's basketball, hockey and volleyball teams."
+        "DESCRIPTION": "Mattamy Athletic Centre is located within Maple Leafs Garden and is home to the Ryerson Ram's basketball, hockey and volleyball teams.",
+        "ID": 101
       }
     },
     {
@@ -1829,7 +1930,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.torontozoo.com",
         "ADDRESS": "2000 Meadowvale Road",
-        "DESCRIPTION": "The Toronto Zoo is one of the largest zoos in the world at 287 hectares (710 acres) and is known for interactive education and conservation activities. It is currently home to 2 giant pandas, and more than 5,000 animals representing over 500 species."
+        "DESCRIPTION": "The Toronto Zoo is one of the largest zoos in the world at 287 hectares (710 acres) and is known for interactive education and conservation activities. It is currently home to 2 giant pandas, and more than 5,000 animals representing over 500 species.",
+        "ID": 102
       }
     },
     {
@@ -1847,7 +1949,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://www.townofyork.com/",
         "ADDRESS": "260 Adelaide Street East",
-        "DESCRIPTION": "Toronto's First Post Office acts as a museum but also continues to operate as a full service Canada Post office.  Admission to the museum is by donation."
+        "DESCRIPTION": "Toronto's First Post Office acts as a museum but also continues to operate as a full service Canada Post office.  Admission to the museum is by donation.",
+        "ID": 103
       }
     },
     {
@@ -1865,7 +1968,8 @@
         "CATEGORY": "Visitor Info",
         "WEBSITE": "http://travellersaid.ca/",
         "ADDRESS": "65 Front Street West",
-        "DESCRIPTION": "Travellers' Aid Society of Toronto operates two desks; one at Pearson International Airport and the other within Union Station's grand hall.  They offer free services to the general travelling public."
+        "DESCRIPTION": "Travellers' Aid Society of Toronto operates two desks; one at Pearson International Airport and the other within Union Station's grand hall.  They offer free services to the general travelling public.",
+        "ID": 104
       }
     },
     {
@@ -1883,7 +1987,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "http://umcontario.com/",
         "ADDRESS": "620 Spadina Avenue",
-        "DESCRIPTION": "The Ukrainian Museum of Canada features over 4,000 artifacts.  These artifacts include prints, coins, maps jewellery, textiles and historic costumes."
+        "DESCRIPTION": "The Ukrainian Museum of Canada features over 4,000 artifacts.  These artifacts include prints, coins, maps jewellery, textiles and historic costumes.",
+        "ID": 105
       }
     },
     {
@@ -1901,7 +2006,8 @@
         "CATEGORY": "Transportation",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=f50e962c8c3f0410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "65 Front Street West",
-        "DESCRIPTION": "Union Station is the busiest transportation hub in all of Canada.  It serves more than 250,000 passengers daily.  Via Rail, the TTC, Go Transit and Amtrak all operate out of the station"
+        "DESCRIPTION": "Union Station is the busiest transportation hub in all of Canada.  It serves more than 250,000 passengers daily.  Via Rail, the TTC, Go Transit and Amtrak all operate out of the station",
+        "ID": 106
       }
     },
     {
@@ -1919,7 +2025,8 @@
         "CATEGORY": "Visitor Info",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=92200995bbbc1410VgnVCM10000071d60f89RCRD&vgnextchannel=71c08b7a29891410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "65 Front Street West",
-        "DESCRIPTION": "The Union Station Tourism Information Centre provides travel advice and information to all its customers.  Services include free Wi-Fi service, brochures and souvenirs."
+        "DESCRIPTION": "The Union Station Tourism Information Centre provides travel advice and information to all its customers.  Services include free Wi-Fi service, brochures and souvenirs.",
+        "ID": 107
       }
     },
     {
@@ -1937,7 +2044,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=93221d18ed7a0410VgnVCM10000071d60f89RCRD",
         "ADDRESS": "67 Pottery Road",
-        "DESCRIPTION": "Papermill Theatre is a recently renovated space that seats 164 and offers a retractable seating unit, two fully furnished dressing rooms and an LCD projector."
+        "DESCRIPTION": "Papermill Theatre is a recently renovated space that seats 164 and offers a retractable seating unit, two fully furnished dressing rooms and an LCD projector.",
+        "ID": 108
       }
     },
     {
@@ -1955,7 +2063,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.agakhanmuseum.org",
         "ADDRESS": "77 Wynford Drive",
-        "DESCRIPTION": "Dedicated to sharing the artistic, intellectual, and scientific contributions that Islamic civilizations and cultures have made to world heritage."
+        "DESCRIPTION": "Dedicated to sharing the artistic, intellectual, and scientific contributions that Islamic civilizations and cultures have made to world heritage.",
+        "ID": 109
       }
     },
     {
@@ -1973,7 +2082,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.tocentre.com/",
         "ADDRESS": "5040 Yonge Street",
-        "DESCRIPTION": "This venue features three unique stages to house a multitude of concerts, shows and events."
+        "DESCRIPTION": "This venue features three unique stages to house a multitude of concerts, shows and events.",
+        "ID": 110
       }
     },
     {
@@ -1991,7 +2101,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/1/",
         "ADDRESS": "1675 Lake Shore Blvd East",
-        "DESCRIPTION": "Ashbridge's Bay waterfront park features large beaches, fishing areas, a marina, and the Woodbine Beach boardwalk."
+        "DESCRIPTION": "Ashbridge's Bay waterfront park features large beaches, fishing areas, a marina, and the Woodbine Beach boardwalk.",
+        "ID": 111
       }
     },
     {
@@ -2009,7 +2120,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://dancemakers.org/",
         "ADDRESS": "9 Trinity Street",
-        "DESCRIPTION": "One of Toronto's professional contemporary dance companies, Dancemakers and the Centre for Creation is focused on the delivery of refined and passionate dance to its admirers."
+        "DESCRIPTION": "One of Toronto's professional contemporary dance companies, Dancemakers and the Centre for Creation is focused on the delivery of refined and passionate dance to its admirers.",
+        "ID": 112
       }
     },
     {
@@ -2027,7 +2139,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/406",
         "ADDRESS": "201 Guildwood Parkway",
-        "DESCRIPTION": "A sculptural alluring park and garden, the Guild Park and Gardens is rich in local history and a must-see for locals and visitors alike."
+        "DESCRIPTION": "A sculptural alluring park and garden, the Guild Park and Gardens is rich in local history and a must-see for locals and visitors alike.",
+        "ID": 113
       }
     },
     {
@@ -2045,7 +2158,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.redpathsugar.com",
         "ADDRESS": "95 Queens Quay East",
-        "DESCRIPTION": "Located inside the Redpath Refinery, the Redpath Sugar Museum is for those interested in the history of sugar, the development and the role of the Redpath family in Canada's industry sector, and much more."
+        "DESCRIPTION": "Located inside the Redpath Refinery, the Redpath Sugar Museum is for those interested in the history of sugar, the development and the role of the Redpath family in Canada's industry sector, and much more.",
+        "ID": 114
       }
     },
     {
@@ -2063,7 +2177,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.tiff.net",
         "ADDRESS": "350 King Street West",
-        "DESCRIPTION": "The TIFF Bell Lightbox is the home of the Toronto International Film Festival and a year-round destination for unique screenings, themed festivals, and exhibitions.  It also houses two restaurants."
+        "DESCRIPTION": "The TIFF Bell Lightbox is the home of the Toronto International Film Festival and a year-round destination for unique screenings, themed festivals, and exhibitions.  It also houses two restaurants.",
+        "ID": 115
       }
     },
     {
@@ -2081,7 +2196,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "http://www.torontosculpturegarden.com/",
         "ADDRESS": "115 King Street East",
-        "DESCRIPTION": "Since 1981 this small urban park has featured contemporary sculpture installations by various artists."
+        "DESCRIPTION": "Since 1981 this small urban park has featured contemporary sculpture installations by various artists.",
+        "ID": 116
       }
     },
     {
@@ -2099,7 +2215,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "https://www.canadianstage.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=4571A4D5-B9AC-49E1-B9EE-BED174FB365D&sessionlanguage",
         "ADDRESS": "26 Berkeley Street",
-        "DESCRIPTION": "Home to the Canadian Stage Company, the Berkeley Street Theatre presents an array of Canadian and international performances."
+        "DESCRIPTION": "Home to the Canadian Stage Company, the Berkeley Street Theatre presents an array of Canadian and international performances.",
+        "ID": 117
       }
     },
     {
@@ -2117,7 +2234,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.mirvish.com/theatres/edmirvishtheatre",
         "ADDRESS": "244 Victoria Street",
-        "DESCRIPTION": "A part of the Toronto theatre scene since 1920, the Ed Mirvish Theatre is a picturesque theatre to view special presentations ranging from concerts, comedy, plays, and many more."
+        "DESCRIPTION": "A part of the Toronto theatre scene since 1920, the Ed Mirvish Theatre is a picturesque theatre to view special presentations ranging from concerts, comedy, plays, and many more.",
+        "ID": 118
       }
     },
     {
@@ -2135,7 +2253,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.jftor.org",
         "ADDRESS": "2 Bloor St. East",
-        "DESCRIPTION": "A cultural establishment aiming towards effective development of its international cultural exchange programs in Japanese arts and cultural exchange."
+        "DESCRIPTION": "A cultural establishment aiming towards effective development of its international cultural exchange programs in Japanese arts and cultural exchange.",
+        "ID": 119
       }
     },
     {
@@ -2152,7 +2271,8 @@
         "NAME": "Museum of Cultural Heritage of Indo-Canadians",
         "CATEGORY": "Museum",
         "ADDRESS": "61 Claireville Drive",
-        "DESCRIPTION": "The Canadian Museum of Cultural Heritage of Indo-Canadians is a museum committed to the understanding of India's rich cultural heritage.  (See BAPS Shri Swaminarayan Mandir.)"
+        "DESCRIPTION": "The Canadian Museum of Cultural Heritage of Indo-Canadians is a museum committed to the understanding of India's rich cultural heritage.  (See BAPS Shri Swaminarayan Mandir.)",
+        "ID": 120
       }
     },
     {
@@ -2170,7 +2290,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.mirvish.com/theatres/royalalexandratheatre",
         "ADDRESS": "260 King Street West",
-        "DESCRIPTION": "Owned by Mirvish Productions. The Royal Alexandra Theatre built in beaux-arts architectural style in 1907. It is home to numerous performances and performers."
+        "DESCRIPTION": "Owned by Mirvish Productions. The Royal Alexandra Theatre built in beaux-arts architectural style in 1907. It is home to numerous performances and performers.",
+        "ID": 121
       }
     },
     {
@@ -2188,7 +2309,8 @@
         "CATEGORY": "Transportation",
         "WEBSITE": "www.torontopearson.com/",
         "ADDRESS": "6301 Silver Dart Drive",
-        "DESCRIPTION": "Canada's busiest airport with flights to over 180 destinations around the globe."
+        "DESCRIPTION": "Canada's busiest airport with flights to over 180 destinations around the globe.",
+        "ID": 122
       }
     },
     {
@@ -2206,7 +2328,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www.rougepark.com/explore/interest/campground.php",
         "ADDRESS": "7450 Kingston Road",
-        "DESCRIPTION": "Toronto's only campground, the Glen Rouge is surrounded by luscious forests and meadows. The campground implements seasonal full-service camping."
+        "DESCRIPTION": "Toronto's only campground, the Glen Rouge is surrounded by luscious forests and meadows. The campground implements seasonal full-service camping.",
+        "ID": 123
       }
     },
     {
@@ -2224,7 +2347,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.music.cbc.ca/glenngould/concerts",
         "ADDRESS": "250 Front Street West",
-        "DESCRIPTION": "Located on the main floor of the Canadian Broadcasting Centre,  the Glenn Gould Studio is a much-celebrated venue for its state of the art recording facilities and acoustics."
+        "DESCRIPTION": "Located on the main floor of the Canadian Broadcasting Centre,  the Glenn Gould Studio is a much-celebrated venue for its state of the art recording facilities and acoustics.",
+        "ID": 124
       }
     },
     {
@@ -2242,7 +2366,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "app.toronto.ca/tpha/beach/3.html",
         "ADDRESS": "695 Lakeshore Ave",
-        "DESCRIPTION": "Situated on the west shore of Toronto Island Park, this beach is Toronto's only clothing optonal beach."
+        "DESCRIPTION": "Situated on the west shore of Toronto Island Park, this beach is Toronto's only clothing optonal beach.",
+        "ID": 125
       }
     },
     {
@@ -2260,7 +2385,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.harbourfrontcentre.com",
         "ADDRESS": "235 Queens Quay West",
-        "DESCRIPTION": "Popular 10-acre lakeside cultural site offers an eclectic blend of year-round arts, culture and recreation such as concerts, skating, music festivals and dance."
+        "DESCRIPTION": "Popular 10-acre lakeside cultural site offers an eclectic blend of year-round arts, culture and recreation such as concerts, skating, music festivals and dance.",
+        "ID": 126
       }
     },
     {
@@ -2278,7 +2404,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.harthouse.ca",
         "ADDRESS": "7 Hart House Circle",
-        "DESCRIPTION": "A point of interest in the University of Toronto community, the Hart House Theatre and it's students produce an array of drama, dance, film, and music."
+        "DESCRIPTION": "A point of interest in the University of Toronto community, the Hart House Theatre and it's students produce an array of drama, dance, film, and music.",
+        "ID": 127
       }
     },
     {
@@ -2296,7 +2423,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www.highparktoronto.com",
         "ADDRESS": "1873 Bloor Street West",
-        "DESCRIPTION": "High Park is one of TorontoUs largest parks, and attracts visitors each spring for the blooming of its famous cherry blossoms. It also contains attractions and amenities such as recreational programs, a local zoo, a unique playground and a pond."
+        "DESCRIPTION": "High Park is one of TorontoUs largest parks, and attracts visitors each spring for the blooming of its famous cherry blossoms. It also contains attractions and amenities such as recreational programs, a local zoo, a unique playground and a pond.",
+        "ID": 128
       }
     },
     {
@@ -2314,7 +2442,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "1091 Finch Avenue East",
-        "DESCRIPTION": "Built in 1869, the Historic Zion Schoolhouse has been restored to emulate schooling as it once was in the farming  district of L'Amaroux"
+        "DESCRIPTION": "Built in 1869, the Historic Zion Schoolhouse has been restored to emulate schooling as it once was in the farming  district of L'Amaroux",
+        "ID": 129
       }
     },
     {
@@ -2332,7 +2461,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.hhof.com",
         "ADDRESS": "30 Yonge Street",
-        "DESCRIPTION": "Unique to Toronto, and featuring the Stanley Cup, interactive exhibits, shows, and the finest collection of hockey artifacts in the world."
+        "DESCRIPTION": "Unique to Toronto, and featuring the Stanley Cup, interactive exhibits, shows, and the finest collection of hockey artifacts in the world.",
+        "ID": 130
       }
     },
     {
@@ -2350,7 +2480,8 @@
         "CATEGORY": "Shopping",
         "WEBSITE": "www.holtrenfrew.com",
         "ADDRESS": "50 Bloor Street West",
-        "DESCRIPTION": "A chain of Canadian department stores focused on high-end Canadian and international brands."
+        "DESCRIPTION": "A chain of Canadian department stores focused on high-end Canadian and international brands.",
+        "ID": 131
       }
     },
     {
@@ -2368,7 +2499,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "339 Queens Quay West",
-        "DESCRIPTION": "Facing the inner harbour with Toronto Island Park in clear viewing,  HTO Park includes an urban beach which is decorated with yellow umbrellas and Muskoka chairs."
+        "DESCRIPTION": "Facing the inner harbour with Toronto Island Park in clear viewing,  HTO Park includes an urban beach which is decorated with yellow umbrellas and Muskoka chairs.",
+        "ID": 132
       }
     },
     {
@@ -2386,7 +2518,8 @@
         "CATEGORY": "Shopping",
         "WEBSITE": "www.thebay.com",
         "ADDRESS": "176 Yonge Street",
-        "DESCRIPTION": "Famously known as being North America's oldest company, the Hudson Bay is a chain of department stores  that operate throughout the country."
+        "DESCRIPTION": "Famously known as being North America's oldest company, the Hudson Bay is a chain of department stores  that operate throughout the country.",
+        "ID": 133
       }
     },
     {
@@ -2404,7 +2537,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www.humberarboretum.on.ca/sites/pages/index1.html",
         "ADDRESS": "205 Humber College Boulevard",
-        "DESCRIPTION": "Located nearby the West Humber River Valley, the Humber Arboretum offers trails through environmentally-rich areas like forests, and wetlands."
+        "DESCRIPTION": "Located nearby the West Humber River Valley, the Humber Arboretum offers trails through environmentally-rich areas like forests, and wetlands.",
+        "ID": 134
       }
     },
     {
@@ -2422,7 +2556,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/1074",
         "ADDRESS": "100 Humber Bay Park Road West",
-        "DESCRIPTION": "Located at a waterfront park at the mouth of Mimico Creek, the Humber Bay Butterfly Habitat is focused on providing habitat for an array of native butterfly species."
+        "DESCRIPTION": "Located at a waterfront park at the mouth of Mimico Creek, the Humber Bay Butterfly Habitat is focused on providing habitat for an array of native butterfly species.",
+        "ID": 135
       }
     },
     {
@@ -2440,7 +2575,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.theisabel.ca",
         "ADDRESS": "93 Charles Street West",
-        "DESCRIPTION": "Located at the University of Toronto, this multi-purpose venue seats 500 patrons whether it be for a lecture, workshop, or a theatrical production."
+        "DESCRIPTION": "Located at the University of Toronto, this multi-purpose venue seats 500 patrons whether it be for a lecture, workshop, or a theatrical production.",
+        "ID": 136
       }
     },
     {
@@ -2458,7 +2594,8 @@
         "CATEGORY": "Transportation",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "9 Queen's Quay West",
-        "DESCRIPTION": "Located at the foot of Bay Street and Queens Quay West, the  Jack Layton Ferry Terminal acts as a commuting point to and from the Toronto Island Park with frequent ferry service."
+        "DESCRIPTION": "Located at the foot of Bay Street and Queens Quay West, the  Jack Layton Ferry Terminal acts as a commuting point to and from the Toronto Island Park with frequent ferry service.",
+        "ID": 137
       }
     },
     {
@@ -2476,7 +2613,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/3",
         "ADDRESS": "61 Edgehill Road",
-        "DESCRIPTION": "Former estate gardens located in Toronto's west end that include rare trees, spring-fed pools, and other seasonal displays."
+        "DESCRIPTION": "Former estate gardens located in Toronto's west end that include rare trees, spring-fed pools, and other seasonal displays.",
+        "ID": 138
       }
     },
     {
@@ -2494,7 +2632,8 @@
         "CATEGORY": "Park",
         "WEBSITE": "www.kew.org/visit-kew-gardens",
         "ADDRESS": "2075 Queen Street East",
-        "DESCRIPTION": "Located in The Beaches, Kew Gardens act as one of Toronto's most popular picnic grounds while having access to the boardwalk on the lakeshore."
+        "DESCRIPTION": "Located in The Beaches, Kew Gardens act as one of Toronto's most popular picnic grounds while having access to the boardwalk on the lakeshore.",
+        "ID": 139
       }
     },
     {
@@ -2512,7 +2651,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "app.toronto.ca/tpha/beach/9.html",
         "ADDRESS": "2075 Queen Street East",
-        "DESCRIPTION": "One of Toronto's designated swimming beaches, Kew-Balmy Beach is located between Silver Birch and Leuty Avenues in Beaches Park."
+        "DESCRIPTION": "One of Toronto's designated swimming beaches, Kew-Balmy Beach is located between Silver Birch and Leuty Avenues in Beaches Park.",
+        "ID": 140
       }
     },
     {
@@ -2530,7 +2670,8 @@
         "CATEGORY": "Entertainment Venue",
         "WEBSITE": "www.avivacentre.com",
         "ADDRESS": "1 Shoreham Drive",
-        "DESCRIPTION": "Aviva Centre is a tennis stadium at York University and is home to the Rogers Cup."
+        "DESCRIPTION": "Aviva Centre is a tennis stadium at York University and is home to the Rogers Cup.",
+        "ID": 141
       }
     },
     {
@@ -2548,7 +2689,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.performance.rcmusic.ca",
         "ADDRESS": "273 Bloor Street West",
-        "DESCRIPTION": "Koerner Hall is a 1,135 seat venue to provide excellent acoustic sounds for all genres of music in its \"shoebox\" designed venue."
+        "DESCRIPTION": "Koerner Hall is a 1,135 seat venue to provide excellent acoustic sounds for all genres of music in its \"shoebox\" designed venue.",
+        "ID": 142
       }
     },
     {
@@ -2566,7 +2708,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.lowerossingtontheatre.com",
         "ADDRESS": "100 Ossington Avenue",
-        "DESCRIPTION": "A theatrical hub for downtown Toronto's west end,  the Lower Ossington Theatre is home to special presentations, rehearsals, and classes."
+        "DESCRIPTION": "A theatrical hub for downtown Toronto's west end,  the Lower Ossington Theatre is home to special presentations, rehearsals, and classes.",
+        "ID": 143
       }
     },
     {
@@ -2584,7 +2727,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "82 Bond Street",
-        "DESCRIPTION": "Mackenzie House is the restored home of William Lyon Mackenzie, Toronto's first Mayor.  It is one of 10 museums operated by the City of Toronto."
+        "DESCRIPTION": "Mackenzie House is the restored home of William Lyon Mackenzie, Toronto's first Mayor.  It is one of 10 museums operated by the City of Toronto.",
+        "ID": 144
       }
     },
     {
@@ -2602,7 +2746,8 @@
         "CATEGORY": "Beach",
         "WEBSITE": "app.toronto.ca/tpha/beach/1.html",
         "ADDRESS": "2 Forty-Second Street",
-        "DESCRIPTION": "Located at the mouth of Etobicoke Creek near the foot of Forty-Second Street. Most users of this beach come from the bordering Long Branch community."
+        "DESCRIPTION": "Located at the mouth of Etobicoke Creek near the foot of Forty-Second Street. Most users of this beach come from the bordering Long Branch community.",
+        "ID": 145
       }
     },
     {
@@ -2620,7 +2765,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.masseyhall.com",
         "ADDRESS": "178 Victoria Street",
-        "DESCRIPTION": "Declared a heritage building in  the 1970s, this live events venue acts as a performance venue for various artists."
+        "DESCRIPTION": "Declared a heritage building in  the 1970s, this live events venue acts as a performance venue for various artists.",
+        "ID": 146
       }
     },
     {
@@ -2638,7 +2784,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.medievaltimes.com",
         "ADDRESS": "10 Dufferin Street",
-        "DESCRIPTION": "A family dinner theatre featuring staged medieval-style games, sword-fighting, and jousting performed by a cast of actors and horses."
+        "DESCRIPTION": "A family dinner theatre featuring staged medieval-style games, sword-fighting, and jousting performed by a cast of actors and horses.",
+        "ID": 147
       }
     },
     {
@@ -2656,7 +2803,8 @@
         "CATEGORY": "Convention and Trade",
         "WEBSITE": "www.mtccc.com",
         "ADDRESS": "255 Front Street West",
-        "DESCRIPTION": "Offers more than 600,000 square feet of large exhibit, event, and meeting space."
+        "DESCRIPTION": "Offers more than 600,000 square feet of large exhibit, event, and meeting space.",
+        "ID": 148
       }
     },
     {
@@ -2674,7 +2822,8 @@
         "CATEGORY": "Entertainment Venue",
         "WEBSITE": "www.livenation.com/venues/14878/molson-canadian-amphitheatre",
         "ADDRESS": "909 Lakeshore Boulevard West",
-        "DESCRIPTION": "Located within the Ontario Place grounds, the Molson Canadian Amphitheatre offers concert goers an excellent outdoors venue."
+        "DESCRIPTION": "Located within the Ontario Place grounds, the Molson Canadian Amphitheatre offers concert goers an excellent outdoors venue.",
+        "ID": 149
       }
     },
     {
@@ -2692,7 +2841,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.montgomerysinn.com/",
         "ADDRESS": "4709 Dundas Street West",
-        "DESCRIPTION": "A museum that was once a historic home, visitors can delve into the lifestyle of a 19th century Irish farm family with access to the bedrooms, kitchen wing and much more."
+        "DESCRIPTION": "A museum that was once a historic home, visitors can delve into the lifestyle of a 19th century Irish farm family with access to the bedrooms, kitchen wing and much more.",
+        "ID": 150
       }
     },
     {
@@ -2710,7 +2860,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.much.com",
         "ADDRESS": "299 Queen Street West",
-        "DESCRIPTION": "A Canadian television channel dedicated to engaging the youth through popular music and popular television series."
+        "DESCRIPTION": "A Canadian television channel dedicated to engaging the youth through popular music and popular television series.",
+        "ID": 151
       }
     },
     {
@@ -2728,7 +2879,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.mocca.ca",
         "ADDRESS": "158 Sterling Road",
-        "DESCRIPTION": "A variety of original and thought-provoking exhibitions, promoting innovative art by Canadian and international artists. Over 800 artists have been featured in more than 80 exhibitions and projects."
+        "DESCRIPTION": "A variety of original and thought-provoking exhibitions, promoting innovative art by Canadian and international artists. Over 800 artists have been featured in more than 80 exhibitions and projects.",
+        "ID": 152
       }
     },
     {
@@ -2746,7 +2898,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.miamuseum.ca/",
         "ADDRESS": "207 Queens Quay West",
-        "DESCRIPTION": "The Museum of Inuit Art is the only museum dedicated entirely to Inuit art in southern Canada."
+        "DESCRIPTION": "The Museum of Inuit Art is the only museum dedicated entirely to Inuit art in southern Canada.",
+        "ID": 153
       }
     },
     {
@@ -2764,7 +2917,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.mysteriouslyyours.com",
         "ADDRESS": "2026 Yonge Street",
-        "DESCRIPTION": "Mysteriously Yoursu. Mystery Dinner Theatre is a murder mystery dinner theatre located in Uptown Toronto."
+        "DESCRIPTION": "Mysteriously Yoursu. Mystery Dinner Theatre is a murder mystery dinner theatre located in Uptown Toronto.",
+        "ID": 154
       }
     },
     {
@@ -2782,7 +2936,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.nativeearth.ca",
         "ADDRESS": "585 Dundas Street East",
-        "DESCRIPTION": "Native Earth Performing Arts is a theatre company devoted to the artistic expression of the Indigenous experience."
+        "DESCRIPTION": "Native Earth Performing Arts is a theatre company devoted to the artistic expression of the Indigenous experience.",
+        "ID": 155
       }
     },
     {
@@ -2800,7 +2955,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.toronto.ca/old_cityhall/old_cityhall_tour.htm",
         "ADDRESS": "60 Queen Street West",
-        "DESCRIPTION": "Old City Hall is a landmark building that was used as Toronto's second City Hall and is a great example of beautiful architecture. Today, it is used as a courthouse."
+        "DESCRIPTION": "Old City Hall is a landmark building that was used as Toronto's second City Hall and is a great example of beautiful architecture. Today, it is used as a courthouse.",
+        "ID": 156
       }
     },
     {
@@ -2818,7 +2974,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "www.ocadu.ca/exhibitions/onsite.htm",
         "ADDRESS": "230 Richmond Street West",
-        "DESCRIPTION": "Onsite (at) OCAD provides the opportunity and space of an art gallery to exhibit students contemporary work."
+        "DESCRIPTION": "Onsite (at) OCAD provides the opportunity and space of an art gallery to exhibit students contemporary work.",
+        "ID": 157
       }
     },
     {
@@ -2836,7 +2993,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.ontariosciencecentre.ca",
         "ADDRESS": "770 Don Mills Road",
-        "DESCRIPTION": "Home to fascinating interactive experiences with over 500 engaging exhibits, live demonstrations, IMAX  films, and Torontots only public planetarium."
+        "DESCRIPTION": "Home to fascinating interactive experiences with over 500 engaging exhibits, live demonstrations, IMAX  films, and Torontots only public planetarium.",
+        "ID": 158
       }
     },
     {
@@ -2854,7 +3012,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.osgoode.yorku.ca",
         "ADDRESS": "130 Queen Street West",
-        "DESCRIPTION": "Constructed in the 19th century, Osgoode Hall acts as the judicial landmark of Toronto, with institutions like the Ontario Court of Appeal, the Law Society of Upper Canada, and the Divisional Court of the Superior Court of Justice."
+        "DESCRIPTION": "Constructed in the 19th century, Osgoode Hall acts as the judicial landmark of Toronto, with institutions like the Ontario Court of Appeal, the Law Society of Upper Canada, and the Divisional Court of the Superior Court of Justice.",
+        "ID": 159
       }
     },
     {
@@ -2872,7 +3031,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.mirvish.com/theatres/panasonictheatre",
         "ADDRESS": "651 Yonge Street",
-        "DESCRIPTION": "Owned by Mirvish Productions, the Panasonic Theatre is the home  of many famous theatrical productions."
+        "DESCRIPTION": "Owned by Mirvish Productions, the Panasonic Theatre is the home  of many famous theatrical productions.",
+        "ID": 160
       }
     },
     {
@@ -2890,7 +3050,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.pawsway.ca",
         "ADDRESS": "245 Queens Quay West",
-        "DESCRIPTION": "PawsWay is a unique centre dedicated to pets. The centre holds exhibits, special events and programming for pet owners and pet lovers alike."
+        "DESCRIPTION": "PawsWay is a unique centre dedicated to pets. The centre holds exhibits, special events and programming for pet owners and pet lovers alike.",
+        "ID": 161
       }
     },
     {
@@ -2908,7 +3069,8 @@
         "CATEGORY": "Attraction",
         "WEBSITE": "www.polsonpier.com",
         "ADDRESS": "11 Polson Street",
-        "DESCRIPTION": "Located on the water, the Polson Pier is a waterfront property that includes a drive-in cinema, patio bar, concert venues, and much more."
+        "DESCRIPTION": "Located on the water, the Polson Pier is a waterfront property that includes a drive-in cinema, patio bar, concert venues, and much more.",
+        "ID": 162
       }
     },
     {
@@ -2926,7 +3088,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.mirvish.com/theatres/princessofwalestheatre",
         "ADDRESS": "300 King Street West",
-        "DESCRIPTION": "Owned by Mirvish Productions. The Princess of Wales Theatre opened in 1993 and is the home  of many famous theatrical productions"
+        "DESCRIPTION": "Owned by Mirvish Productions. The Princess of Wales Theatre opened in 1993 and is the home  of many famous theatrical productions",
+        "ID": 163
       }
     },
     {
@@ -2944,7 +3107,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.tarragontheatre.com",
         "ADDRESS": "30 Bridgman Avenue",
-        "DESCRIPTION": "The Tarragon Theatre is a performing arts centre  notable for the development of playwrights. Over 170 works have premiered at the theatre."
+        "DESCRIPTION": "The Tarragon Theatre is a performing arts centre  notable for the development of playwrights. Over 170 works have premiered at the theatre.",
+        "ID": 164
       }
     },
     {
@@ -2962,7 +3126,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.textilemuseum.ca",
         "ADDRESS": "55 Centre Avenue",
-        "DESCRIPTION": "With more than 13,000 objects from more than 200 countries and regions, the Textile Museum of Canada celebrates cultural diversity through traditional fabrics, garments, carpets and related artifacts such as beadwork and basketry."
+        "DESCRIPTION": "With more than 13,000 objects from more than 200 countries and regions, the Textile Museum of Canada celebrates cultural diversity through traditional fabrics, garments, carpets and related artifacts such as beadwork and basketry.",
+        "ID": 165
       }
     },
     {
@@ -2980,7 +3145,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.48highlanders.com/museum.htm",
         "ADDRESS": "73 Simcoe Street",
-        "DESCRIPTION": "This museum is dedicated to one of Canada's famous military regiments. The museum holds historical artifacts dating from Victorian Toronto in 1891, when the 48th Highlanders was formed, to the present day."
+        "DESCRIPTION": "This museum is dedicated to one of Canada's famous military regiments. The museum holds historical artifacts dating from Victorian Toronto in 1891, when the 48th Highlanders was formed, to the present day.",
+        "ID": 166
       }
     },
     {
@@ -2998,7 +3164,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.batashoemuseum.ca",
         "ADDRESS": "327 Bloor Street West",
-        "DESCRIPTION": "Home to hundreds of shoes (from a collection numbering over 13,000). The museum celebrates the style and function of footwear in impressive galleries from ancient Egypt to modern fashion."
+        "DESCRIPTION": "Home to hundreds of shoes (from a collection numbering over 13,000). The museum celebrates the style and function of footwear in impressive galleries from ancient Egypt to modern fashion.",
+        "ID": 167
       }
     },
     {
@@ -3016,7 +3183,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.thedanforth.com",
         "ADDRESS": "147 Danforth Avenue",
-        "DESCRIPTION": "The Music Hall boasts new theatre seats, state-of-art sound and lighting and a completely renovated backstage area."
+        "DESCRIPTION": "The Music Hall boasts new theatre seats, state-of-art sound and lighting and a completely renovated backstage area.",
+        "ID": 168
       }
     },
     {
@@ -3034,7 +3202,8 @@
         "CATEGORY": "Landmark",
         "WEBSITE": "www.thedistillerydistrict.com/",
         "ADDRESS": "55 Mill Street",
-        "DESCRIPTION": "A pedestrian-only historic area that represents the largest and best preserved collection of Victorian Industrial Architecture in North America. The refurbished warehouses are now home to restaurants, bars, galleries, studios, and a theatre."
+        "DESCRIPTION": "A pedestrian-only historic area that represents the largest and best preserved collection of Victorian Industrial Architecture in North America. The refurbished warehouses are now home to restaurants, bars, galleries, studios, and a theatre.",
+        "ID": 169
       }
     },
     {
@@ -3052,7 +3221,8 @@
         "CATEGORY": "Gallery",
         "WEBSITE": "http://www.thepowerplant.org/",
         "ADDRESS": "231 Queen's Quay West",
-        "DESCRIPTION": "Dedicated to contemporary art, the Power Plant is a free public gallery located at the Harbourfront Centre."
+        "DESCRIPTION": "Dedicated to contemporary art, the Power Plant is a free public gallery located at the Harbourfront Centre.",
+        "ID": 170
       }
     },
     {
@@ -3070,7 +3240,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.ryerson.ca/theatre",
         "ADDRESS": "43 Gerrard Street East",
-        "DESCRIPTION": "Ryerson Theatre is home to various productions which includes concerts, film presentations, and Ryerson Theatre and Fashion Schools productions."
+        "DESCRIPTION": "Ryerson Theatre is home to various productions which includes concerts, film presentations, and Ryerson Theatre and Fashion Schools productions.",
+        "ID": 171
       }
     },
     {
@@ -3088,7 +3259,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www.holocaustcentre.com",
         "ADDRESS": "4600 Bathurst Street",
-        "DESCRIPTION": "The Sarah and Chaim Neuberger Holocaust Education Centre provides all its visitors a complete understanding of the Holocaust.c 30, 000 students pass through its doors during educational trips."
+        "DESCRIPTION": "The Sarah and Chaim Neuberger Holocaust Education Centre provides all its visitors a complete understanding of the Holocaust.c 30, 000 students pass through its doors during educational trips.",
+        "ID": 172
       }
     },
     {
@@ -3106,7 +3278,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "1007 Brimley Road",
-        "DESCRIPTION": "The Scarborough Museum and its gardens are located within Thomson Memorial Park.r It is one of 10 museums operated by the City of Toronto.d The Museum looks back on the story of Scarborough's roots and history."
+        "DESCRIPTION": "The Scarborough Museum and its gardens are located within Thomson Memorial Park.r It is one of 10 museums operated by the City of Toronto.d The Museum looks back on the story of Scarborough's roots and history.",
+        "ID": 173
       }
     },
     {
@@ -3124,7 +3297,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.theatrescarborough.com",
         "ADDRESS": "3600 Kingston Road",
-        "DESCRIPTION": "Theatre Scarborough is an umbrella organization consisting of Scarborough Music Theatre, Scarborough Players, and Scarborough Theatre Guild.  Performances take place at the Scarborough Village Community Centre."
+        "DESCRIPTION": "Theatre Scarborough is an umbrella organization consisting of Scarborough Music Theatre, Scarborough Players, and Scarborough Theatre Guild.  Performances take place at the Scarborough Village Community Centre.",
+        "ID": 174
       }
     },
     {
@@ -3142,7 +3316,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.solarstage.on.ca",
         "ADDRESS": "4950 Yonge Street",
-        "DESCRIPTION": "Solar Stage Children's Theatre is dedicated to providing theatrical presentations for children."
+        "DESCRIPTION": "Solar Stage Children's Theatre is dedicated to providing theatrical presentations for children.",
+        "ID": 175
       }
     },
     {
@@ -3160,7 +3335,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "www.sonycentre.ca",
         "ADDRESS": "1 Front Street East",
-        "DESCRIPTION": "The Sony Centre for the Performing Arts  is a performing arts venue with a range of events that include concerts, dance, and much more."
+        "DESCRIPTION": "The Sony Centre for the Performing Arts  is a performing arts venue with a range of events that include concerts, dance, and much more.",
+        "ID": 176
       }
     },
     {
@@ -3178,7 +3354,8 @@
         "CATEGORY": "Museum",
         "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRESS": "285 Spadina Road",
-        "DESCRIPTION": "Operated by the City of Toronto, the Spadina Museum is a historic manor house that allows visitors to learn about the history and architecture of  late 19th century to early 20th century Toronto."
+        "DESCRIPTION": "Operated by the City of Toronto, the Spadina Museum is a historic manor house that allows visitors to learn about the history and architecture of  late 19th century to early 20th century Toronto.",
+        "ID": 177
       }
     },
     {
@@ -3196,7 +3373,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://www.secondcity.com/shows/toronto/",
         "ADDRESS": "51 Mercer Street",
-        "DESCRIPTION": "Second City produces premiere comedy performances and operates a training centre."
+        "DESCRIPTION": "Second City produces premiere comedy performances and operates a training centre.",
+        "ID": 178
       }
     },
     {
@@ -3214,7 +3392,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://theatrecentre.org/",
         "ADDRESS": "1115 Queen St West",
-        "DESCRIPTION": "The Theatre Centre supports artists who wish to develop works of an experimental or alternative nature.  All their artists embrace the visual arts, music, dance and new media."
+        "DESCRIPTION": "The Theatre Centre supports artists who wish to develop works of an experimental or alternative nature.  All their artists embrace the visual arts, music, dance and new media.",
+        "ID": 179
       }
     },
     {
@@ -3232,7 +3411,8 @@
         "CATEGORY": "Performing Arts",
         "WEBSITE": "http://www.villageplayers.net/",
         "ADDRESS": "2190 Bloor Street West",
-        "DESCRIPTION": "The Village Playhouse a non-profit theatre group that opened its doors in 1974 and has since produced plays such as Cat on a Hot Tin Roof, Amadeus and Dial 'M' For Murder."
+        "DESCRIPTION": "The Village Playhouse a non-profit theatre group that opened its doors in 1974 and has since produced plays such as Cat on a Hot Tin Roof, Amadeus and Dial 'M' For Murder.",
+        "ID": 180
       }
     }
   ]
