@@ -8,7 +8,7 @@
         "NAME": "Air Canada Centre",
         "CATEGORY": "Sports / Entertainment Venue",
         "PHONE": "416-815-5500",
-        "WEBSITE": "www.theaircanadacentre.com/",
+        "WEBSITE": "http://www.theaircanadacentre.com/",
         "ADDRSS": "40 Bay Street",
         "DESCRIPTION": "The Air Canada Centre is a multi-purpose indoor sporting arena and concert venue. It is the home of the Toronto Maple Leafs Hockey Club, the Toronto Raptors basketball team, and the Toronto Rock Lacrosse team."
       },
@@ -27,7 +27,7 @@
         "NAME": "Al Green Theatre (at the Miles Nadal Jewish Community Centre)",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-924-6211",
-        "WEBSITE": "www.algreentheatre.ca/",
+        "WEBSITE": "http://www.algreentheatre.ca/",
         "ADDRSS": "750 Spadina Avenue",
         "DESCRIPTION": "The Al Green Theatre is used  for social and corporate event, theatre, film, concerts, dance; and lectures."
       },
@@ -46,7 +46,7 @@
         "NAME": "Alexander Muir Memorial Gardens",
         "CATEGORY": "Featured Park",
         "PHONE": 311,
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/193",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/193",
         "ADDRSS": "2901 Yonge Street",
         "DESCRIPTION": "Named after the famous composer Alexander Muir.  The gardens act as a path into the tranquil ravine system that includes walking trails.  The gardens are open year round."
       },
@@ -103,7 +103,7 @@
         "NAME": "Alumnae Theatre Company",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-364-4170",
-        "WEBSITE": "www.alumnaetheatre.com/",
+        "WEBSITE": "http://www.alumnaetheatre.com/",
         "ADDRSS": "70 Berkeley Street",
         "DESCRIPTION": "The theatre company is housed inside an old firehall.  Each year the company offers three productions."
       },
@@ -141,7 +141,7 @@
         "NAME": "Art Gallery of Ontario",
         "CATEGORY": "Gallery",
         "PHONE": "416-979-6648",
-        "WEBSITE": "www.ago.net/",
+        "WEBSITE": "http://www.ago.net/",
         "ADDRSS": "317 Dundas Street West",
         "DESCRIPTION": "The Art Gallery of Ontario (AGO) is one of the largest art galleries in North America, and holds more than 80,000 works in its collection.   In 2008 the buidling was redesigned by famous architect and native Torontonian, Frank Gehry."
       },
@@ -255,7 +255,7 @@
         "NAME": "Black Creek Pioneer Village",
         "CATEGORY": "Museum",
         "PHONE": "416-736-1733",
-        "WEBSITE": "www.blackcreek.ca/",
+        "WEBSITE": "http://www.blackcreek.ca/",
         "ADDRSS": "1000 Murray Ross Parkway",
         "DESCRIPTION": "Become immersed in the lifestyles, customs, and surroundings of early residents who built the foundations for modern Toronto and Ontario at this 30-acre site."
       },
@@ -312,7 +312,7 @@
         "NAME": "BMO Field",
         "CATEGORY": "Sports / Entertainment Venue",
         "PHONE": "416-360-4657",
-        "WEBSITE": "www.bmofield.com",
+        "WEBSITE": "http://www.bmofield.com",
         "ADDRSS": "170 Princes' Boulevard",
         "DESCRIPTION": "BMO Field is home to the Toronto FC (Major League Soccer), Canada's national soccer teams, and the future home of the Toronto Argonauts (Canadian Football League) in 2016"
       },
@@ -388,7 +388,7 @@
         "NAME": "Canada's Walk of Fame",
         "CATEGORY": "Landmark",
         "PHONE": "416-367-9255",
-        "WEBSITE": "www.canadaswalkoffame.com",
+        "WEBSITE": "http://www.canadaswalkoffame.com",
         "ADDRSS": "215 King St. W.",
         "DESCRIPTION": "Canada's Walk of Fame celebrates Canadians who have excelled in their respective fields for a minimum of 10 years.   The stars are displayed throughout the Entertainment District along King Street West and Simcoe Street."
       },
@@ -445,7 +445,7 @@
         "NAME": "Casa Loma",
         "CATEGORY": "Attraction",
         "PHONE": "416-923-1171",
-        "WEBSITE": "www.casaloma.ca",
+        "WEBSITE": "http://www.casaloma.ca",
         "ADDRSS": "1 Austin Terrace",
         "DESCRIPTION": "Canadais foremost castle is complete with decorated suites, secret passages, an 800-foot tunnel, towers, stables, and beautiful 5-acre estate gardens."
       },
@@ -673,7 +673,7 @@
         "NAME": "Design Exchange",
         "CATEGORY": "Museum",
         "PHONE": "416-363-6121",
-        "WEBSITE": "ww.dx.org/",
+        "WEBSITE": "http://ww.dx.org/",
         "ADDRSS": "234 Bay Street",
         "DESCRIPTION": "Canada's only museum dedicated to the preservation of design which includes the design heritage from an array of mediums."
       },
@@ -692,7 +692,7 @@
         "NAME": "EnerCare Centre (formely known as Direct Energy Centre)",
         "CATEGORY": "Convention & Trade Centres",
         "PHONE": "416-263-3000",
-        "WEBSITE": "www.enercarecentre.com/",
+        "WEBSITE": "http://ww.enercarecentre.com/",
         "ADDRSS": "100 Princes' Boulevard",
         "DESCRIPTION": "The largest convention centre in Canada, over 180 trade and consumer shows are annually hosted at the EnerCare Centre."
       },
@@ -711,7 +711,7 @@
         "NAME": "Downsview Park",
         "CATEGORY": "Featured Park",
         "PHONE": "416-952-2222",
-        "WEBSITE": "www.downsviewpark.ca",
+        "WEBSITE": "http://www.downsviewpark.ca",
         "ADDRSS": "35 Carl Hall Road",
         "DESCRIPTION": "The vast green space allows for an array of small-to-large scale events such as culture, dining, leisure, sports, and recreation."
       },
@@ -730,7 +730,7 @@
         "NAME": "Ed Mirvish Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-364-4100",
-        "WEBSITE": "www.mirvish.com/theatres/edmirvishtheatre",
+        "WEBSITE": "http://www.mirvish.com/theatres/edmirvishtheatre",
         "ADDRSS": "244 Victoria Street",
         "DESCRIPTION": "A part of the Toronto theatre scene since 1920, the Ed Mirvish Theatre is a picturesque theatre to view special presentations ranging from concerts, comedy, plays, and many more."
       },
@@ -806,7 +806,7 @@
         "NAME": "Exhibition Place",
         "CATEGORY": "Convention & Trade Centres",
         "PHONE": "C416-263-3600",
-        "WEBSITE": "www.explace.on.ca",
+        "WEBSITE": "http://www.explace.on.ca",
         "ADDRSS": "200 Princes' Boulevard",
         "DESCRIPTION": "Attracting over 5 million visitors a year, this massive complex features sporting and exhibition facilities, a nightclub and attractions."
       },
@@ -844,7 +844,7 @@
         "NAME": "Famous PEOPLE Players",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-532-1137",
-        "WEBSITE": "www.famouspeopleplayers.com/",
+        "WEBSITE": "http://www.famouspeopleplayers.com/",
         "ADDRSS": "343 Evans Avenue",
         "DESCRIPTION": "Located in Toronto's West End, Famous PEOPLE Players allows visitors to immerse themselves in a unique dining experience while enjoying theatre in the dark."
       },
@@ -882,7 +882,7 @@
         "NAME": "Four Seasons Centre for the Performing Arts",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-363-8231",
-        "WEBSITE": "www.coc.ca/AboutTheCOC/FourSeasonsCentre",
+        "WEBSITE": "http://www.coc.ca/AboutTheCOC/FourSeasonsCentre",
         "ADDRSS": "145 Queen Street West",
         "DESCRIPTION": "The Four Seasons Centre for the Performing Arts is home to the Canadian Opera Company and the National Ballet of Canada."
       },
@@ -901,7 +901,7 @@
         "NAME": "Franklin Children's Garden",
         "CATEGORY": "Garden / Conservatory",
         "PHONE": "416-397-2628",
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid=e9b8dada600f0410VgnVCM10000071d60f89RCRD",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=e9b8dada600f0410VgnVCM10000071d60f89RCRD",
         "ADDRSS": "30 Centre Island Park",
         "DESCRIPTION": "The garden, inspired by Franklin the Turtle, is an area to discover nature, play, while learning something new."
       },
@@ -920,7 +920,7 @@
         "NAME": "Gardiner Museum of Ceramic Art",
         "CATEGORY": "Museum",
         "PHONE": "416-586-8080",
-        "WEBSITE": "www.gardinermuseum.on.ca",
+        "WEBSITE": "http://www.gardinermuseum.on.ca",
         "ADDRSS": "111 Queen's Park",
         "DESCRIPTION": "A museum dedicated to one of the oldest forms of art.  The Gardiner Museum of Ceramic Art is home to over 3,000 historical and contemporary ceramic pieces."
       },
@@ -939,7 +939,7 @@
         "NAME": "George Ignatieff Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-978-3862",
-        "WEBSITE": "www.trinity.utoronto.ca/visit/index.html",
+        "WEBSITE": "http://www.trinity.utoronto.ca/visit/index.html",
         "ADDRSS": "15 Devonshire Place",
         "DESCRIPTION": "In the Trinity College community, the George Ignatieff Theatre acts as a creative hub ranging from events like theatre,  conferences, and much more."
       },
@@ -958,7 +958,7 @@
         "NAME": "Gibraltar Point Beach",
         "CATEGORY": "Beach",
         "PHONE": 311,
-        "WEBSITE": "app.toronto.ca/tpha/beach/4.html",
+        "WEBSITE": "http://app.toronto.ca/tpha/beach/4.html",
         "ADDRSS": "443 Lakeshore Ave",
         "DESCRIPTION": "Surrounded by eastern cottonwood trees,  the Gibraltar Point Beach is located on the southwest shore of Toronto Island Park. The Gibraltar Point Centre for the Arts is walking distance from the beach."
       },
@@ -977,7 +977,7 @@
         "NAME": "Gibson House",
         "CATEGORY": "Museum",
         "PHONE": "416-395-7432",
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "5172 Yonge Street",
         "DESCRIPTION": "Operated  by the City of Toronto, the Gibson House is a museum where visitors experience an exquisite farmhouse and learn more about the rural development of the area."
       },
@@ -996,7 +996,7 @@
         "NAME": "Glen Rouge Campground",
         "CATEGORY": "Featured Park",
         "PHONE": "416-287-2267",
-        "WEBSITE": "www.rougepark.com/explore/interest/campground.php",
+        "WEBSITE": "http://www.rougepark.com/explore/interest/campground.php",
         "ADDRSS": "7450 Kingston Road",
         "DESCRIPTION": "Toronto's only campground, the Glen Rouge is surrounded by luscious forests and meadows. The campground implements seasonal full-service camping."
       },
@@ -1015,7 +1015,7 @@
         "NAME": "Glenn Gould Studio (at the Canadian Broadcasting Centre)",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-205-5000",
-        "WEBSITE": "www.music.cbc.ca/glenngould/concerts",
+        "WEBSITE": "http://www.music.cbc.ca/glenngould/concerts",
         "ADDRSS": "250 Front Street West",
         "DESCRIPTION": "Located on the main floor of the Canadian Broadcasting Centre,  the Glenn Gould Studio is a much-celebrated venue for its state of the art recording facilities and acoustics."
       },
@@ -1034,7 +1034,7 @@
         "NAME": "Guild Park and Gardens (formely known as Guildwood Park)",
         "CATEGORY": "Featured Park",
         "PHONE": "416-397-2628",
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/406",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/406",
         "ADDRSS": "201 Guildwood Parkway",
         "DESCRIPTION": "A sculptural alluring park and garden, the Guild Park and Gardens is rich in local history and a must-see for locals and visitors alike."
       },
@@ -1053,7 +1053,7 @@
         "NAME": "Hanlan's Point Beach",
         "CATEGORY": "Beach",
         "PHONE": 311,
-        "WEBSITE": "app.toronto.ca/tpha/beach/3.html",
+        "WEBSITE": "http://app.toronto.ca/tpha/beach/3.html",
         "ADDRSS": "695 Lakeshore Ave",
         "DESCRIPTION": "Situated on the west shore of Toronto Island Park, this beach is Toronto's only clothing optonal beach."
       },
@@ -1072,7 +1072,7 @@
         "NAME": "Harbourfront Centre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-973-4000",
-        "WEBSITE": "www.harbourfrontcentre.com",
+        "WEBSITE": "http://www.harbourfrontcentre.com",
         "ADDRSS": "235 Queens Quay West",
         "DESCRIPTION": "Popular 10-acre lakeside cultural site offers an eclectic blend of year-round arts, culture and recreation such as concerts, skating, music festivals and dance."
       },
@@ -1091,7 +1091,7 @@
         "NAME": "Hart House Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-978-8849",
-        "WEBSITE": "www.harthouse.ca",
+        "WEBSITE": "http://www.harthouse.ca",
         "ADDRSS": "7 Hart House Circle",
         "DESCRIPTION": "A point of interest in the University of Toronto community, the Hart House Theatre and it's students produce an array of drama, dance, film, and music."
       },
@@ -1110,7 +1110,7 @@
         "NAME": "High Park",
         "CATEGORY": "Featured Park",
         "PHONE": 311,
-        "WEBSITE": "www.highparktoronto.com",
+        "WEBSITE": "http://www.highparktoronto.com",
         "ADDRSS": "1873 Bloor Street West",
         "DESCRIPTION": "High Park is one of TorontoUs largest parks, and attracts visitors each spring for the blooming of its famous cherry blossoms. It also contains attractions and amenities such as recreational programs, a local zoo, a unique playground and a pond."
       },
@@ -1129,7 +1129,7 @@
         "NAME": "Historic Zion Schoolhouse",
         "CATEGORY": "Museum",
         "PHONE": "416-395-7435",
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "1091 Finch Avenue East",
         "DESCRIPTION": "Built in 1869, the Historic Zion Schoolhouse has been restored to emulate schooling as it once was in the farming  district of L'Amaroux"
       },
@@ -1148,7 +1148,7 @@
         "NAME": "Hockey Hall of Fame",
         "CATEGORY": "Attraction",
         "PHONE": "416-360-7765",
-        "WEBSITE": "www.hhof.com",
+        "WEBSITE": "http://www.hhof.com",
         "ADDRSS": "30 Yonge Street",
         "DESCRIPTION": "Unique to Toronto, and featuring the Stanley Cup, interactive exhibits, shows, and the finest collection of hockey artifacts in the world."
       },
@@ -1167,7 +1167,7 @@
         "NAME": "Holt Renfrew",
         "CATEGORY": "Shopping",
         "PHONE": "416-922-2333",
-        "WEBSITE": "www.holtrenfrew.com",
+        "WEBSITE": "http://www.holtrenfrew.com",
         "ADDRSS": "50 Bloor Street West",
         "DESCRIPTION": "A chain of Canadian department stores focused on high-end Canadian and international brands."
       },
@@ -1186,7 +1186,7 @@
         "NAME": "HTO Park",
         "CATEGORY": "Featured Park",
         "PHONE": 311,
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "339 Queens Quay West",
         "DESCRIPTION": "Facing the inner harbour with Toronto Island Park in clear viewing,  HTO Park includes an urban beach which is decorated with yellow umbrellas and Muskoka chairs."
       },
@@ -1205,7 +1205,7 @@
         "NAME": "Hudson's Bay",
         "CATEGORY": "Shopping",
         "PHONE": "1-800-521-2364",
-        "WEBSITE": "www.thebay.com",
+        "WEBSITE": "http://www.thebay.com",
         "ADDRSS": "176 Yonge Street",
         "DESCRIPTION": "Famously known as being North America's oldest company, the Hudson Bay is a chain of department stores  that operate throughout the country."
       },
@@ -1224,7 +1224,7 @@
         "NAME": "Humber Arboretum",
         "CATEGORY": "Featured Park",
         "PHONE": "416-287-2267",
-        "WEBSITE": "www.humberarboretum.on.ca/sites/pages/index1.html",
+        "WEBSITE": "http://www.humberarboretum.on.ca/sites/pages/index1.html",
         "ADDRSS": "205 Humber College Boulevard",
         "DESCRIPTION": "Located nearby the West Humber River Valley, the Humber Arboretum offers trails through environmentally-rich areas like forests, and wetlands."
       },
@@ -1243,7 +1243,7 @@
         "NAME": "Humber Bay Park ( Humber Bay Butterfly Habitat)",
         "CATEGORY": "Featured Park",
         "PHONE": 311,
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/1074",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/1074",
         "ADDRSS": "100 Humber Bay Park Road West",
         "DESCRIPTION": "Located at a waterfront park at the mouth of Mimico Creek, the Humber Bay Butterfly Habitat is focused on providing habitat for an array of native butterfly species."
       },
@@ -1262,7 +1262,7 @@
         "NAME": "Isabel Bader Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-585-4498",
-        "WEBSITE": "www.theisabel.ca",
+        "WEBSITE": "http://www.theisabel.ca",
         "ADDRSS": "93 Charles Street West",
         "DESCRIPTION": "Located at the University of Toronto, this multi-purpose venue seats 500 patrons whether it be for a lecture, workshop, or a theatrical production."
       },
@@ -1281,7 +1281,7 @@
         "NAME": "Jack Layton Ferry Terminal",
         "CATEGORY": "Transportation",
         "PHONE": 311,
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "9 Queen's Quay West",
         "DESCRIPTION": "Located at the foot of Bay Street and Queens Quay West, the  Jack Layton Ferry Terminal acts as a commuting point to and from the Toronto Island Park with frequent ferry service."
       },
@@ -1300,7 +1300,7 @@
         "NAME": "James Garden Park",
         "CATEGORY": "Garden / Conservatory",
         "PHONE": 311,
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/3",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/3",
         "ADDRSS": "61 Edgehill Road",
         "DESCRIPTION": "Former estate gardens located in Toronto's west end that include rare trees, spring-fed pools, and other seasonal displays."
       },
@@ -1319,7 +1319,7 @@
         "NAME": "Japan Foundation",
         "CATEGORY": "Museum",
         "PHONE": "416-966-1600",
-        "WEBSITE": "www.jftor.org",
+        "WEBSITE": "http://www.jftor.org",
         "ADDRSS": "2 Bloor St. East",
         "DESCRIPTION": "A cultural establishment aiming towards effective development of its international cultural exchange programs in Japanese arts and cultural exchange."
       },
@@ -1338,7 +1338,7 @@
         "NAME": "Kew Gardens Park",
         "CATEGORY": "Featured Park",
         "PHONE": 311,
-        "WEBSITE": "www.kew.org/visit-kew-gardens",
+        "WEBSITE": "http://www.kew.org/visit-kew-gardens",
         "ADDRSS": "2075 Queen Street East",
         "DESCRIPTION": "Located in The Beaches, Kew Gardens act as one of Toronto's most popular picnic grounds while having access to the boardwalk on the lakeshore."
       },
@@ -1357,7 +1357,7 @@
         "NAME": "Kew-Balmy Beach",
         "CATEGORY": "Beach",
         "PHONE": 311,
-        "WEBSITE": "app.toronto.ca/tpha/beach/9.html",
+        "WEBSITE": "http://app.toronto.ca/tpha/beach/9.html",
         "ADDRSS": "2075 Queen Street East",
         "DESCRIPTION": "One of Toronto's designated swimming beaches, Kew-Balmy Beach is located between Silver Birch and Leuty Avenues in Beaches Park."
       },
@@ -1376,7 +1376,7 @@
         "NAME": "Koerner Hall (at the Telus Centre for Performance and Learning)",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-408-0208",
-        "WEBSITE": "www.performance.rcmusic.ca",
+        "WEBSITE": "http://www.performance.rcmusic.ca",
         "ADDRSS": "273 Bloor Street West",
         "DESCRIPTION": "Koerner Hall is a 1,135 seat venue to provide excellent acoustic sounds for all genres of music in its \"shoebox\" designed venue."
       },
@@ -1395,7 +1395,7 @@
         "NAME": "Lower Ossington Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-915-6747",
-        "WEBSITE": "www.lowerossingtontheatre.com",
+        "WEBSITE": "http://www.lowerossingtontheatre.com",
         "ADDRSS": "100 Ossington Avenue",
         "DESCRIPTION": "A theatrical hub for downtown Toronto's west end,  the Lower Ossington Theatre is home to special presentations, rehearsals, and classes."
       },
@@ -1414,7 +1414,7 @@
         "NAME": "Mackenzie House",
         "CATEGORY": "Museum",
         "PHONE": "416-392-6915",
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "82 Bond Street",
         "DESCRIPTION": "Mackenzie House is the restored home of William Lyon Mackenzie, Toronto's first Mayor.  It is one of 10 museums operated by the City of Toronto."
       },
@@ -1433,7 +1433,7 @@
         "NAME": "Marie Curtis Park East Beach",
         "CATEGORY": "Beach",
         "PHONE": 311,
-        "WEBSITE": "app.toronto.ca/tpha/beach/1.html",
+        "WEBSITE": "http://app.toronto.ca/tpha/beach/1.html",
         "ADDRSS": "2 Forty-Second Street",
         "DESCRIPTION": "Located at the mouth of Etobicoke Creek near the foot of Forty-Second Street. Most users of this beach come from the bordering Long Branch community."
       },
@@ -1452,7 +1452,7 @@
         "NAME": "Massey Hall",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-872-4255",
-        "WEBSITE": "www.masseyhall.com",
+        "WEBSITE": "http://www.masseyhall.com",
         "ADDRSS": "178 Victoria Street",
         "DESCRIPTION": "Declared a heritage building in  the 1970s, this live events venue acts as a performance venue for various artists."
       },
@@ -1471,7 +1471,7 @@
         "NAME": "Medieval Times Dinner and Tournament",
         "CATEGORY": "Performing Arts",
         "PHONE": "1-866-543-9637",
-        "WEBSITE": "www.medievaltimes.com",
+        "WEBSITE": "http://www.medievaltimes.com",
         "ADDRSS": "10 Dufferin Street",
         "DESCRIPTION": "A family dinner theatre featuring staged medieval-style games, sword-fighting, and jousting performed by a cast of actors and horses."
       },
@@ -1490,7 +1490,7 @@
         "NAME": "Metro Toronto Convention Centre",
         "CATEGORY": "Convention & Trade Centres",
         "PHONE": "416-585-8000",
-        "WEBSITE": "www.mtccc.com",
+        "WEBSITE": "http://www.mtccc.com",
         "ADDRSS": "255 Front Street West",
         "DESCRIPTION": "Offers more than 600,000 square feet of large exhibit, event, and meeting space."
       },
@@ -1509,7 +1509,7 @@
         "NAME": "Molson Canadian Amphitheatre",
         "CATEGORY": "Sports / Entertainment Venue",
         "PHONE": "416-260-5600",
-        "WEBSITE": "www.livenation.com/venues/14878/molson-canadian-amphitheatre",
+        "WEBSITE": "http://www.livenation.com/venues/14878/molson-canadian-amphitheatre",
         "ADDRSS": "909 Lakeshore Boulevard West",
         "DESCRIPTION": "Located within the Ontario Place grounds, the Molson Canadian Amphitheatre offers concert goers an excellent outdoors venue."
       },
@@ -1528,7 +1528,7 @@
         "NAME": "Montgomery's Inn",
         "CATEGORY": "Museum",
         "PHONE": "416-394-8113",
-        "WEBSITE": "www.montgomerysinn.com/",
+        "WEBSITE": "http://www.montgomerysinn.com/",
         "ADDRSS": "4709 Dundas Street West",
         "DESCRIPTION": "A museum that was once a historic home, visitors can delve into the lifestyle of a 19th century Irish farm family with access to the bedrooms, kitchen wing and much more."
       },
@@ -1547,7 +1547,7 @@
         "NAME": "MuchMusic (Bell Media Queen Street)",
         "CATEGORY": "Landmark",
         "PHONE": "",
-        "WEBSITE": "www.much.com",
+        "WEBSITE": "http://www.much.com",
         "ADDRSS": "299 Queen Street West",
         "DESCRIPTION": "A Canadian television channel dedicated to engaging the youth through popular music and popular television series."
       },
@@ -1566,7 +1566,7 @@
         "NAME": "Museum of Contemporary Canadian Art,will be re-opening by Winter 2017",
         "CATEGORY": "Gallery",
         "PHONE": "416-395-0067",
-        "WEBSITE": "www.mocca.ca",
+        "WEBSITE": "http://www.mocca.ca",
         "ADDRSS": "158 Sterling Road",
         "DESCRIPTION": "A variety of original and thought-provoking exhibitions, promoting innovative art by Canadian and international artists. Over 800 artists have been featured in more than 80 exhibitions and projects."
       },
@@ -1604,7 +1604,7 @@
         "NAME": "Museum of Inuit Art",
         "CATEGORY": "Gallery",
         "PHONE": "416-640-1571",
-        "WEBSITE": "www.miamuseum.ca/",
+        "WEBSITE": "http://www.miamuseum.ca/",
         "ADDRSS": "207 Queens Quay West",
         "DESCRIPTION": "The Museum of Inuit Art is the only museum dedicated entirely to Inuit art in southern Canada."
       },
@@ -1623,7 +1623,7 @@
         "NAME": "Mysteriously Yourst Mystery Dinner Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-486-7469",
-        "WEBSITE": "www.mysteriouslyyours.com",
+        "WEBSITE": "http://www.mysteriouslyyours.com",
         "ADDRSS": "2026 Yonge Street",
         "DESCRIPTION": "Mysteriously Yoursu. Mystery Dinner Theatre is a murder mystery dinner theatre located in Uptown Toronto."
       },
@@ -1642,7 +1642,7 @@
         "NAME": "Native Earth Performing Arts",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-531-1402",
-        "WEBSITE": "www.nativeearth.ca",
+        "WEBSITE": "http://www.nativeearth.ca",
         "ADDRSS": "585 Dundas Street East",
         "DESCRIPTION": "Native Earth Performing Arts is a theatre company devoted to the artistic expression of the Indigenous experience."
       },
@@ -1661,7 +1661,7 @@
         "NAME": "Old City Hall",
         "CATEGORY": "Landmark",
         "PHONE": 311,
-        "WEBSITE": "www.toronto.ca/old_cityhall/old_cityhall_tour.htm",
+        "WEBSITE": "http://www.toronto.ca/old_cityhall/old_cityhall_tour.htm",
         "ADDRSS": "60 Queen Street West",
         "DESCRIPTION": "Old City Hall is a landmark building that was used as Toronto's second City Hall and is a great example of beautiful architecture. Today, it is used as a courthouse."
       },
@@ -1680,7 +1680,7 @@
         "NAME": "Onsite [at] OCADU",
         "CATEGORY": "Gallery",
         "PHONE": "416-977-6000",
-        "WEBSITE": "www.ocadu.ca/exhibitions/onsite.htm",
+        "WEBSITE": "http://www.ocadu.ca/exhibitions/onsite.htm",
         "ADDRSS": "230 Richmond Street West",
         "DESCRIPTION": "Onsite (at) OCAD provides the opportunity and space of an art gallery to exhibit students contemporary work."
       },
@@ -1699,7 +1699,7 @@
         "NAME": "Ontario Science Centre",
         "CATEGORY": "Attraction",
         "PHONE": "416-696-1000",
-        "WEBSITE": "www.ontariosciencecentre.ca",
+        "WEBSITE": "http://www.ontariosciencecentre.ca",
         "ADDRSS": "770 Don Mills Road",
         "DESCRIPTION": "Home to fascinating interactive experiences with over 500 engaging exhibits, live demonstrations, IMAX  films, and Torontots only public planetarium."
       },
@@ -1718,7 +1718,7 @@
         "NAME": "Osgoode Hall",
         "CATEGORY": "Landmark",
         "PHONE": "416-314-5899",
-        "WEBSITE": "www.osgoode.yorku.ca",
+        "WEBSITE": "http://www.osgoode.yorku.ca",
         "ADDRSS": "130 Queen Street West",
         "DESCRIPTION": "Constructed in the 19th century, Osgoode Hall acts as the judicial landmark of Toronto, with institutions like the Ontario Court of Appeal, the Law Society of Upper Canada, and the Divisional Court of the Superior Court of Justice."
       },
@@ -1737,7 +1737,7 @@
         "NAME": "Panasonic Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-979-2973",
-        "WEBSITE": "www.mirvish.com/theatres/panasonictheatre",
+        "WEBSITE": "http://www.mirvish.com/theatres/panasonictheatre",
         "ADDRSS": "651 Yonge Street",
         "DESCRIPTION": "Owned by Mirvish Productions, the Panasonic Theatre is the home  of many famous theatrical productions."
       },
@@ -1775,7 +1775,7 @@
         "NAME": "PawsWay Toronto",
         "CATEGORY": "Attraction",
         "PHONE": "416-928-5963",
-        "WEBSITE": "www.pawsway.ca",
+        "WEBSITE": "http://www.pawsway.ca",
         "ADDRSS": "245 Queens Quay West",
         "DESCRIPTION": "PawsWay is a unique centre dedicated to pets. The centre holds exhibits, special events and programming for pet owners and pet lovers alike."
       },
@@ -1794,7 +1794,7 @@
         "NAME": "Polson Pier",
         "CATEGORY": "Attraction",
         "PHONE": "416-469-5655",
-        "WEBSITE": "www.polsonpier.com",
+        "WEBSITE": "http://www.polsonpier.com",
         "ADDRSS": "11 Polson Street",
         "DESCRIPTION": "Located on the water, the Polson Pier is a waterfront property that includes a drive-in cinema, patio bar, concert venues, and much more."
       },
@@ -1813,7 +1813,7 @@
         "NAME": "Princess of Wales Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-212-8897",
-        "WEBSITE": "www.mirvish.com/theatres/princessofwalestheatre",
+        "WEBSITE": "http://www.mirvish.com/theatres/princessofwalestheatre",
         "ADDRSS": "300 King Street West",
         "DESCRIPTION": "Owned by Mirvish Productions. The Princess of Wales Theatre opened in 1993 and is the home  of many famous theatrical productions"
       },
@@ -1832,7 +1832,7 @@
         "NAME": "Queen Elizabeth Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-461-3625",
-        "WEBSITE": "www.queenelizabeththeatre.ca",
+        "WEBSITE": "http://www.queenelizabeththeatre.ca",
         "ADDRSS": "190 Princes Boulevard",
         "DESCRIPTION": "Located at Exhibition Place, the Queen Elizabeth Theatre is an auditorium that is the venue for various entertainment events"
       },
@@ -1851,7 +1851,7 @@
         "NAME": "Queen's Park: Legislative Assembly of Ontario",
         "CATEGORY": "Landmark",
         "PHONE": "416-351-9011",
-        "WEBSITE": "www.ontla.on.ca",
+        "WEBSITE": "http://www.ontla.on.ca",
         "ADDRSS": "111 Wellesley Street West",
         "DESCRIPTION": "A variety of free tour options are available all year round to visit Ontarioas historic Legislative Building (iconic sandstone Richardson Romanesque style building, completed in 1893)."
       },
@@ -1870,7 +1870,7 @@
         "NAME": "Randolph Academy of the Performing Arts",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-263-3293",
-        "WEBSITE": "www.randolphacademy.com",
+        "WEBSITE": "http://www.randolphacademy.com",
         "ADDRSS": "736 Bathurst Street",
         "DESCRIPTION": "Over the last 20 years the Randolph Academy has trained various performers for all major theatre productions in Toronto.  These shows have included Lord of the Rings and Dirty Dancing."
       },
@@ -1889,7 +1889,7 @@
         "NAME": "Redpath Sugar Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-325-7500",
-        "WEBSITE": "www.redpathsugar.com",
+        "WEBSITE": "http://www.redpathsugar.com",
         "ADDRSS": "95 Queens Quay East",
         "DESCRIPTION": "Located inside the Redpath Refinery, the Redpath Sugar Museum is for those interested in the history of sugar, the development and the role of the Redpath family in Canada's industry sector, and much more."
       },
@@ -1908,7 +1908,7 @@
         "NAME": "Aviva Centre (formerly known as the Rexall Centre)",
         "CATEGORY": "Sports / Entertainment Venue",
         "PHONE": "416-924-2243",
-        "WEBSITE": "www.avivacentre.com",
+        "WEBSITE": "http://www.avivacentre.com",
         "ADDRSS": "1 Shoreham Drive",
         "DESCRIPTION": "Aviva Centre is a tennis stadium at York University and is home to the Rogers Cup."
       },
@@ -1927,7 +1927,7 @@
         "NAME": "Ricoh Coliseum",
         "CATEGORY": "Sports / Entertainment Venue",
         "PHONE": "416-366-3361",
-        "WEBSITE": "www.ricohcoliseum.com",
+        "WEBSITE": "http://www.ricohcoliseum.com",
         "ADDRSS": "100 Princes' Boulevard",
         "DESCRIPTION": "Located at Exhibition Place, the Ricoh Coliseum is home to the Toronto Marlies (American Hockey League) and concerts."
       },
@@ -1946,7 +1946,7 @@
         "NAME": "Ripley's Aquarium of Canada",
         "CATEGORY": "Attraction",
         "PHONE": "416-665-9777",
-        "WEBSITE": "www.ripleyaquariums.com/canada",
+        "WEBSITE": "http://www.ripleyaquariums.com/canada",
         "ADDRSS": "288 Bremner Boulevard",
         "DESCRIPTION": "Canadaes largest aquarium. Interactive attractions feature over 5.7 million litres of water and more than 16,000 marine animals."
       },
@@ -1965,7 +1965,7 @@
         "NAME": "Riverdale Farm",
         "CATEGORY": "Attraction",
         "PHONE": "416-263-3900",
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "201 Winchester Street",
         "DESCRIPTION": "On 7.5 acres, Riverdale Farm is an historic working farm with many scenic pathways and farm animals."
       },
@@ -1984,7 +1984,7 @@
         "NAME": "Riverdale Park East",
         "CATEGORY": "Featured Park",
         "PHONE": "647-351-3474",
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/343",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/343",
         "ADDRSS": "550 Broadview Ave",
         "DESCRIPTION": "A Toronto park that is great for all seasons. Riverdale Park East has three multipurpose sport fields, seven tennis courts, an outdoor ice rink, two baseball diamonds, and much more."
       },
@@ -2003,7 +2003,7 @@
         "NAME": "Riverdale Park West",
         "CATEGORY": "Featured Park",
         "PHONE": "416-392-6794",
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/344",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/344",
         "ADDRSS": "500 Gerrard Street East",
         "DESCRIPTION": "A Toronto park that is great for all seasons. Riverdale Park West has three multipurpose sport fields, seven tennis courts, an outdoor ice rink, two baseball diamonds, and much more."
       },
@@ -2022,7 +2022,7 @@
         "NAME": "Rogers Centre",
         "CATEGORY": "Sports / Entertainment Venue",
         "PHONE": 311,
-        "WEBSITE": "www.rogerscentre.com",
+        "WEBSITE": "http://www.rogerscentre.com",
         "ADDRSS": "1 Blue Jays Way",
         "DESCRIPTION": "The Rogers Centre is a multipurpose venue. Home to the Toronto Blue Jays (Major League Baseball) and the Toronto Argonauts (Canadian Football League - 2015 season)."
       },
@@ -2041,7 +2041,7 @@
         "NAME": "Rosetta McClain Gardens",
         "CATEGORY": "Featured Park",
         "PHONE": 311,
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/19",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/19",
         "ADDRSS": "5 Glen Everest Road",
         "DESCRIPTION": "The Rosetta McClain Gardens is a great place to safely see the Scarborough Bluffs and has beautiful rose gardens. There are signs available in braille, textured paths, raised planters, and a ramp to ensure accessibility."
       },
@@ -2060,7 +2060,7 @@
         "NAME": "Rouge Beach",
         "CATEGORY": "Beach",
         "PHONE": "416-341-1000",
-        "WEBSITE": "www.rougepark.com/explore/interest/rouge_beach.php",
+        "WEBSITE": "http://www.rougepark.com/explore/interest/rouge_beach.php",
         "ADDRSS": "195 Rouge Hills Drive",
         "DESCRIPTION": "One of Toronto's designated swimming beaches, Rouge Beach has two distinct areas a white sand beach and a marsh habitat."
       },
@@ -2098,7 +2098,7 @@
         "NAME": "Roy Thomson Hall",
         "CATEGORY": "Performing Arts",
         "PHONE": "905-713-6038",
-        "WEBSITE": "www.roythomson.com",
+        "WEBSITE": "http://www.roythomson.com",
         "ADDRSS": "60 Simcoe Street",
         "DESCRIPTION": "Opened in 1982, Roy Thomson Hall is home of the Toronto Symphony Orchestra and the Toronto Mendelssohn Choir."
       },
@@ -2117,7 +2117,7 @@
         "NAME": "Royal Alexandra Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-872-4255",
-        "WEBSITE": "www.mirvish.com/theatres/royalalexandratheatre",
+        "WEBSITE": "http://www.mirvish.com/theatres/royalalexandratheatre",
         "ADDRSS": "260 King Street West",
         "DESCRIPTION": "Owned by Mirvish Productions. The Royal Alexandra Theatre built in beaux-arts architectural style in 1907. It is home to numerous performances and performers."
       },
@@ -2136,7 +2136,7 @@
         "NAME": "Royal Conservatory of Music",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-593-4216",
-        "WEBSITE": "www.rcmusic.ca",
+        "WEBSITE": "http://www.rcmusic.ca",
         "ADDRSS": "273 Bloor St. West",
         "DESCRIPTION": "The Toronto Conservatory of Music was founded in 1886."
       },
@@ -2155,7 +2155,7 @@
         "NAME": "Royal Ontario Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-586-8000",
-        "WEBSITE": "www.rom.on.ca",
+        "WEBSITE": "http://www.rom.on.ca",
         "ADDRSS": "100 Queen's Park",
         "DESCRIPTION": "Canadaes largest museum of natural history and world cultures, presents engaging galleries of art, archaeology, and natural science from around the world."
       },
@@ -2174,7 +2174,7 @@
         "NAME": "Ryerson Image Centre",
         "CATEGORY": "Gallery",
         "PHONE": "416-979-5000, ext. 7032",
-        "WEBSITE": "www.ryerson.ca/ric",
+        "WEBSITE": "http://www.ryerson.ca/ric",
         "ADDRSS": "33 Gould Street",
         "DESCRIPTION": "The RIC is dedicated to the public exhibition, research, study and teaching of photography including , installation art and film and media."
       },
@@ -2193,7 +2193,7 @@
         "NAME": "Ryerson Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-979-5009",
-        "WEBSITE": "www.ryerson.ca/theatre",
+        "WEBSITE": "http://www.ryerson.ca/theatre",
         "ADDRSS": "43 Gerrard Street East",
         "DESCRIPTION": "Ryerson Theatre is home to various productions which includes concerts, film presentations, and Ryerson Theatre and Fashion Schools productions."
       },
@@ -2212,7 +2212,7 @@
         "NAME": "Sarah and Chaim Neuberger Holocaust Education Centre",
         "CATEGORY": "Museum",
         "PHONE": "416-631-5683",
-        "WEBSITE": "www.holocaustcentre.com",
+        "WEBSITE": "http://www.holocaustcentre.com",
         "ADDRSS": "4600 Bathurst Street",
         "DESCRIPTION": "The Sarah and Chaim Neuberger Holocaust Education Centre provides all its visitors a complete understanding of the Holocaust.c 30, 000 students pass through its doors during educational trips."
       },
@@ -2231,7 +2231,7 @@
         "NAME": "Scarborough Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-338-8807",
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "1007 Brimley Road",
         "DESCRIPTION": "The Scarborough Museum and its gardens are located within Thomson Memorial Park.r It is one of 10 museums operated by the City of Toronto.d The Museum looks back on the story of Scarborough's roots and history."
       },
@@ -2250,7 +2250,7 @@
         "NAME": "Scarborough Village Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-267-9292",
-        "WEBSITE": "www.theatrescarborough.com",
+        "WEBSITE": "http://www.theatrescarborough.com",
         "ADDRSS": "3600 Kingston Road",
         "DESCRIPTION": "Theatre Scarborough is an umbrella organization consisting of Scarborough Music Theatre, Scarborough Players, and Scarborough Theatre Guild.  Performances take place at the Scarborough Village Community Centre."
       },
@@ -2269,7 +2269,7 @@
         "NAME": "Solar Stage Children's Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-368-8031",
-        "WEBSITE": "www.solarstage.on.ca",
+        "WEBSITE": "http://www.solarstage.on.ca",
         "ADDRSS": "4950 Yonge Street",
         "DESCRIPTION": "Solar Stage Children's Theatre is dedicated to providing theatrical presentations for children."
       },
@@ -2288,7 +2288,7 @@
         "NAME": "Sony Centre for the Performing Arts",
         "CATEGORY": "Performing Arts",
         "PHONE": "1-855-872-7669",
-        "WEBSITE": "www.sonycentre.ca",
+        "WEBSITE": "http://www.sonycentre.ca",
         "ADDRSS": "1 Front Street East",
         "DESCRIPTION": "The Sony Centre for the Performing Arts  is a performing arts venue with a range of events that include concerts, dance, and much more."
       },
@@ -2307,7 +2307,7 @@
         "NAME": "Spadina Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-392-6910",
-        "WEBSITE": "www1.toronto.ca/wps/portal/contentonly?vgnextoid",
+        "WEBSITE": "http://www1.toronto.ca/wps/portal/contentonly?vgnextoid",
         "ADDRSS": "285 Spadina Road",
         "DESCRIPTION": "Operated by the City of Toronto, the Spadina Museum is a historic manor house that allows visitors to learn about the history and architecture of  late 19th century to early 20th century Toronto."
       },
@@ -2326,7 +2326,7 @@
         "NAME": "St. James Park",
         "CATEGORY": "Featured Park",
         "PHONE": "416-366-7723",
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/408",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/408",
         "ADDRSS": "120 King Street East",
         "DESCRIPTION": "A large green space, home to a Victorian garden, live performances, and is a popular spot for photos. The park is adjacent to historic St. James Cathedral."
       },
@@ -2345,7 +2345,7 @@
         "NAME": "St. Lawrence Centre for the Arts",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-392-7120",
-        "WEBSITE": "www.stlc.com",
+        "WEBSITE": "http://www.stlc.com",
         "ADDRSS": "27 Front Street East",
         "DESCRIPTION": "Home to  two theatres, the Bluma Appel Theatre and the Jane Mallett Theatre, the St. Lawrence Centre for the Arts is the home to various artistic and public events."
       },
@@ -2364,7 +2364,7 @@
         "NAME": "St. Lawrence Market & Market Gallery",
         "CATEGORY": "Attraction",
         "PHONE": "416-362-2337",
-        "WEBSITE": "www.stlawrencemarket.com/.../about_the_market_gallery_and_antique",
+        "WEBSITE": "http://www.stlawrencemarket.com/.../about_the_market_gallery_and_antique",
         "ADDRSS": "95 Front Street East",
         "DESCRIPTION": "Voted best fresh food market in the world by National Georgraphic in 2012, Torontots historic and premier market also includes The Market Gallery, housed within part of Torontols original 19th century City Hall."
       },
@@ -2383,7 +2383,7 @@
         "NAME": "Steam Whistle Brewery",
         "CATEGORY": "Attraction",
         "PHONE": 311,
-        "WEBSITE": "www.steamwhistle.ca",
+        "WEBSITE": "http://www.steamwhistle.ca",
         "ADDRSS": "255 Bremner Boulevard",
         "DESCRIPTION": "A microbrewery located in downtown Toronto, Steam Whistle  Brewery produces a premium pale lager composed of only four ingredients."
       },
@@ -2402,7 +2402,7 @@
         "NAME": "Sugar Beach Park",
         "CATEGORY": "Beach",
         "PHONE": 311,
-        "WEBSITE": "www.waterfrontoronto.ca/explore_projects2/east.../canadas_sugar_beach",
+        "WEBSITE": "http://www.waterfrontoronto.ca/explore_projects2/east.../canadas_sugar_beach",
         "ADDRSS": "11 Dockside Drive",
         "DESCRIPTION": "Sugar Beach is one of Toronto's urban beach parks. Famous for its pink umbrellas and Muskoka chairs."
       },
@@ -2421,7 +2421,7 @@
         "NAME": "Sunnyside Beach",
         "CATEGORY": "Beach",
         "PHONE": "416-534-8662",
-        "WEBSITE": "www1.toronto.ca/parks/prd/facilities/complex/394",
+        "WEBSITE": "http://www1.toronto.ca/parks/prd/facilities/complex/394",
         "ADDRSS": "1755 Lake Shore Boulevard West",
         "DESCRIPTION": "One of Toronto's designated swimming beaches, Sunnyside Beach provides rowers and paddlers calm waters with an offshore break wall."
       },
@@ -2440,7 +2440,7 @@
         "NAME": "Taras H. Shevchenko Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-531-1827",
-        "WEBSITE": "www.infoukes.com/shevchenkomuseum",
+        "WEBSITE": "http://www.infoukes.com/shevchenkomuseum",
         "ADDRSS": "1614 Bloor Street West",
         "DESCRIPTION": "The Taras H. Shevchenko Museum is the home to  exhibitions dedicated to the contribution of Ukrainians in Canada and the life of famed writer Taras Shevchenko."
       },
@@ -2459,7 +2459,7 @@
         "NAME": "Tarragon Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-599-5321",
-        "WEBSITE": "www.tarragontheatre.com",
+        "WEBSITE": "http://www.tarragontheatre.com",
         "ADDRSS": "30 Bridgman Avenue",
         "DESCRIPTION": "The Tarragon Theatre is a performing arts centre  notable for the development of playwrights. Over 170 works have premiered at the theatre."
       },
@@ -2478,7 +2478,7 @@
         "NAME": "Textile Museum of Canada",
         "CATEGORY": "Museum",
         "PHONE": "416-366-3561",
-        "WEBSITE": "www.textilemuseum.ca",
+        "WEBSITE": "http://www.textilemuseum.ca",
         "ADDRSS": "55 Centre Avenue",
         "DESCRIPTION": "With more than 13,000 objects from more than 200 countries and regions, the Textile Museum of Canada celebrates cultural diversity through traditional fabrics, garments, carpets and related artifacts such as beadwork and basketry."
       },
@@ -2497,7 +2497,7 @@
         "NAME": "The 48th Highlanders Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-979-7799",
-        "WEBSITE": "www.48highlanders.com/museum.htm",
+        "WEBSITE": "http://www.48highlanders.com/museum.htm",
         "ADDRSS": "73 Simcoe Street",
         "DESCRIPTION": "This museum is dedicated to one of Canada's famous military regiments. The museum holds historical artifacts dating from Victorian Toronto in 1891, when the 48th Highlanders was formed, to the present day."
       },
@@ -2516,7 +2516,7 @@
         "NAME": "Aga Khan Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-861-9111",
-        "WEBSITE": "www.agakhanmuseum.org",
+        "WEBSITE": "http://www.agakhanmuseum.org",
         "ADDRSS": "77 Wynford Drive",
         "DESCRIPTION": "Dedicated to sharing the artistic, intellectual, and scientific contributions that Islamic civilizations and cultures have made to world heritage."
       },
@@ -2535,7 +2535,7 @@
         "NAME": "The Bata Shoe Museum",
         "CATEGORY": "Museum",
         "PHONE": "416-778-8163",
-        "WEBSITE": "www.batashoemuseum.ca",
+        "WEBSITE": "http://www.batashoemuseum.ca",
         "ADDRSS": "327 Bloor Street West",
         "DESCRIPTION": "Home to hundreds of shoes (from a collection numbering over 13,000). The museum celebrates the style and function of footwear in impressive galleries from ancient Egypt to modern fashion."
       },
@@ -2554,7 +2554,7 @@
         "NAME": "The Danforth Music Hall",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-979-6648",
-        "WEBSITE": "www.thedanforth.com",
+        "WEBSITE": "http://www.thedanforth.com",
         "ADDRSS": "147 Danforth Avenue",
         "DESCRIPTION": "The Music Hall boasts new theatre seats, state-of-art sound and lighting and a completely renovated backstage area."
       },
@@ -2573,7 +2573,7 @@
         "NAME": "The Distillery Historic District",
         "CATEGORY": "Landmark",
         "PHONE": "416-343-0011",
-        "WEBSITE": "www.thedistillerydistrict.com/",
+        "WEBSITE": "http://www.thedistillerydistrict.com/",
         "ADDRSS": "55 Mill Street",
         "DESCRIPTION": "A pedestrian-only historic area that represents the largest and best preserved collection of Victorian Industrial Architecture in North America. The refurbished warehouses are now home to restaurants, bars, galleries, studios, and a theatre."
       },
@@ -2687,7 +2687,7 @@
         "NAME": "Thompson Landry Gallery - Stone Building & Cooperage Space",
         "CATEGORY": "Gallery",
         "PHONE": "416-367-1341",
-        "WEBSITE": "www.thompsonlandry.com/",
+        "WEBSITE": "http://www.thompsonlandry.com/",
         "ADDRSS": "6 Trinity Street",
         "DESCRIPTION": "The Thompson Landry Gallery is spread out over 6,000 square feet and showcases artwork from internationally acclaimed contemporary Quebec artists. The gallery opened in 2009 and  is situated within the Distillery District's Cooperage Building."
       },
@@ -2725,7 +2725,7 @@
         "NAME": "TIFF Bell Lightbox",
         "CATEGORY": "Landmark",
         "PHONE": 311,
-        "WEBSITE": "www.tiff.net",
+        "WEBSITE": "http://www.tiff.net",
         "ADDRSS": "350 King Street West",
         "DESCRIPTION": "The TIFF Bell Lightbox is the home of the Toronto International Film Festival and a year-round destination for unique screenings, themed festivals, and exhibitions.  It also houses two restaurants."
       },
@@ -2763,7 +2763,7 @@
         "NAME": "Tommy Thompson Park",
         "CATEGORY": "Featured Park",
         "PHONE": "416-245-4923",
-        "WEBSITE": "www.tommythompsonpark.ca",
+        "WEBSITE": "http://www.tommythompsonpark.ca",
         "ADDRSS": "1 Leslie Street",
         "DESCRIPTION": "The park is a perfect place for hiking, jogging, cycling and birdwatching."
       },
@@ -2782,7 +2782,7 @@
         "NAME": "Toronto Botanical Gardens and Edwards Gardens",
         "CATEGORY": "Featured Park",
         "PHONE": "416-598-8560",
-        "WEBSITE": "torontobotanicalgarden.ca/",
+        "WEBSITE": "http://torontobotanicalgarden.ca/",
         "ADDRSS": "777 Lawrence Avenue East",
         "DESCRIPTION": "Located at the stunning Edwards Gardens, Toronto Botanical Garden features award-winning themed gardens and an indoor education/interpretation facility."
       },
@@ -2801,7 +2801,7 @@
         "NAME": "Toronto Centre for the Arts",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-392-9300",
-        "WEBSITE": "www.tocentre.com/",
+        "WEBSITE": "http://www.tocentre.com/",
         "ADDRSS": "5040 Yonge Street",
         "DESCRIPTION": "This venue features three unique stages to house a multitude of concerts, shows and events."
       },
@@ -2839,7 +2839,7 @@
         "NAME": "Toronto Coach Terminal",
         "CATEGORY": "Transportation",
         "PHONE": 311,
-        "WEBSITE": "torontocoachterminal.com/",
+        "WEBSITE": "http://torontocoachterminal.com/",
         "ADDRSS": "610 Bay Street",
         "DESCRIPTION": "The Toronto Coach Terminal provides travellers with bus service to various cities in North America."
       },
@@ -2858,7 +2858,7 @@
         "NAME": "Toronto Congress Centre",
         "CATEGORY": "Convention & Trade Centres",
         "PHONE": 311,
-        "WEBSITE": "www.torontocongresscentre.com",
+        "WEBSITE": "http://www.torontocongresscentre.com",
         "ADDRSS": "650 Dixon Road",
         "DESCRIPTION": "The Toronto Congress Centre opened in 1995 and now features over 1 million square feet of space for galas, meetings, trade shows and conventions,"
       },
@@ -2934,7 +2934,7 @@
         "NAME": "Toronto Pearson International Airport",
         "CATEGORY": "Transportation",
         "PHONE": "",
-        "WEBSITE": "www.torontopearson.com/",
+        "WEBSITE": "http://ww.torontopearson.com/",
         "ADDRSS": "6301 Silver Dart Drive",
         "DESCRIPTION": "Canadais busiest airport with flights to over 180 destinations around the globe."
       },
@@ -3048,7 +3048,7 @@
         "NAME": "Toronto Zoo",
         "CATEGORY": "Attraction",
         "PHONE": "416-923-3318",
-        "WEBSITE": "www.torontozoo.com",
+        "WEBSITE": "http://www.torontozoo.com",
         "ADDRSS": "2000 Meadowvale Road",
         "DESCRIPTION": "The Toronto Zoo is one of the largest zoos in the world at 287 hectares (710 acres) and is known for interactive education and conservation activities. It is currently home to 2 giant pandas, and more than 5,000 animals representing over 500 species."
       },
@@ -3219,7 +3219,7 @@
         "NAME": "Winchester Street Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "416-396-2819",
-        "WEBSITE": "winchester.tdt.org/",
+        "WEBSITE": "http://winchester.tdt.org/",
         "ADDRSS": "80 Winchester Street",
         "DESCRIPTION": "The Winchester Street Theatre is owned and jointly operated by the Toronto Dance Theatre and the School of Toronto Dance Theatre. The venue features rake seating and a stage that best showcases dance performances."
       },
@@ -3295,7 +3295,7 @@
         "NAME": "Yonge-Dundas Square",
         "CATEGORY": "Landmark",
         "PHONE": "416-862-2222",
-        "WEBSITE": "www.ydsquare.ca/",
+        "WEBSITE": "http://www.ydsquare.ca/",
         "ADDRSS": "1 Dundas Street East",
         "DESCRIPTION": "Yonge-Dundas Square is one of the city's largest public squares.  It is located directly across from the Toronto Eaton Centre.  The square is home to free movie screenings, concerts, shows and exhibits."
       },
@@ -3333,7 +3333,7 @@
         "NAME": "Yorkdale Mall",
         "CATEGORY": "Shopping",
         "PHONE": "",
-        "WEBSITE": "www.yorkdale.com/",
+        "WEBSITE": "http://www.yorkdale.com/",
         "ADDRSS": "3401 Dufferin Street",
         "DESCRIPTION": "An upscale shopping centre in Toronto's North West end."
       },
@@ -3371,7 +3371,7 @@
         "NAME": "Young People's Theatre",
         "CATEGORY": "Performing Arts",
         "PHONE": "",
-        "WEBSITE": "www.youngpeoplestheatre.ca/",
+        "WEBSITE": "http://www.youngpeoplestheatre.ca/",
         "ADDRSS": "165 Front Street East",
         "DESCRIPTION": "The Young People Theatre is a part of the Soulpepper theatre company located within the Distillery Historic District."
       },
@@ -3409,7 +3409,7 @@
         "NAME": "Mattamy Athletic Centre",
         "CATEGORY": "Sports / Entertainment Venue",
         "PHONE": "",
-        "WEBSITE": "www.mattamyathleticcentre.ca/",
+        "WEBSITE": "http://www.mattamyathleticcentre.ca/",
         "ADDRSS": "50 Carlton Street",
         "DESCRIPTION": "Mattamy Athletic Centre is located within Maple Leafs Garden and is home to the Ryerson Ram's basketball, hockey and volleyball teams."
       },
