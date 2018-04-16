@@ -1,4 +1,4 @@
-{
+var Pts = {
   "type": "FeatureCollection",
   "features": [
     {
